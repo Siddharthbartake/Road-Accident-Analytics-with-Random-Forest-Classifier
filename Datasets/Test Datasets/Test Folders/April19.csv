@@ -1,0 +1,414 @@
+,Case Number,Age,Sex,Sex_Name,Seat,Seat_pos,Fatality,Drinking_Involvement,Drugs_involvement,Injury_Severity,Injury_Description,Race_Involvement,Rollover,Rollover Description,SchoolBus_involvement,Vehicle_withTrailers
+0,10226,18,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10129,18,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10094,18,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,1,2,Suspected Minor Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10188,18,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10189,18,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10350,18,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10682,18,1,Male,11,"Front Seat, Left Side",18:00-18:59,9,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10219,18,2,Female,11,"Front Seat, Left Side",22:00-22:59,0,0,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10445,19,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10195,19,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10640,19,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10056,19,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury(B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10434,19,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10789,19,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10763,19,1,Male,11,"Front Seat, Left Side",3:00-3:59,9,9,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10312,19,2,Female,11,"Front Seat, Left Side",23:00-23:59,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10323,20,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10437,20,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10748,20,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10233,20,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10172,20,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Suspected Serious Injury(A),0,0,No Rollover,0,0
+0,10099,20,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Suspected Serious Injury(A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10246,20,1,Male,11,"Front Seat, Left Side",0:00-0:59,1,9,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10396,20,2,Female,11,"Front Seat, Left Side",16:00-16:59,9,9,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10771,21,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10145,21,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10173,21,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10170,21,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10338,21,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10042,21,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10738,21,1,Male,11,"Front Seat, Left Side",Unknown,0,0,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10013,21,2,Female,11,"Front Seat, Left Side",7:00-7:59,9,9,4,Fatal Injury (K),2,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10524,22,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10174,22,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10777,22,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10111,22,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10484,22,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10586,22,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10708,22,1,Male,11,"Front Seat, Left Side",7:00-7:59,9,9,4,Fatal Injury (K),2,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10109,22,2,Female,11,"Front Seat, Left Side",10:00-10:59,0,0,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10766,23,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10216,23,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10153,23,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10464,23,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10029,23,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10306,23,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10025,23,1,Male,11,"Front Seat, Left Side",4:00-4:59,9,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10707,23,2,Female,11,"Front Seat, Left Side",11:00-11:59,0,0,4,Fatal Injury (K),,0,No Rollover,0,0
+0,10265,24,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10252,24,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10227,24,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10401,24,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury(B),0,0,No Rollover,0,0
+0,10626,24,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1,3,Suspected Serious Injury(A),0,0,No Rollover,0,0
+0,10038,24,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10099,24,1,Male,11,"Front Seat, Left Side",20:00-20:59,9,9,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10711,24,2,Female,11,"Front Seat, Left Side",14:00-14:59,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10257,25,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10623,25,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10138,25,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,1,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10494,25,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9,2,Non-incapacitating Evident Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10358,25,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Suspected Serious Injury (A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10828,25,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10046,25,1,Male,11,"Front Seat, Left Side",Unknown,8,8,4,Fatal Injury (K),2,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10341,25,2,Female,11,"Front Seat, Left Side",17:00-17:59,9,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10450,26,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10785,26,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,1,Possible Injury (C),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10704,26,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10289,26,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,1,0
+0,10779,26,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10195,26,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10570,26,1,Male,11,"Front Seat, Left Side",0:00-0:59,9,9,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10710,26,2,Female,11,"Front Seat, Left Side",12:00-12:59,0,0,4,Fatal Injury (K),2,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10106,27,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,1,Possible Injury (C),,0,No Rollover,0,0
+0,10735,27,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10442,27,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1,2,Suspected Minor Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10227,27,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10151,27,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9,3,Suspected Serious Injury(A),0,0,No Rollover,0,0
+0,10131,27,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Suspected Serious Injury(A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10460,27,1,Male,11,"Front Seat, Left Side",16:00-16:59,9,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10656,27,2,Female,11,"Front Seat, Left Side",20:00-20:59,9,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10485,28,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10762,28,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10473,28,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10095,28,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10457,28,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Incapacitating Injury (A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10418,28,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10662,28,1,Male,11,"Front Seat, Left Side",9:00-9:59,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10747,28,2,Female,11,"Front Seat, Left Side",2:00-2:59,1,0,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10714,29,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10660,29,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10694,29,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,Non-incapacitating Evident Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10595,29,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10350,29,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Suspected Serious Injury(A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10928,29,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10779,29,1,Male,11,"Front Seat, Left Side",0:00-0:59,0,0,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10584,29,2,Female,11,"Front Seat, Left Side",11:00-11:59,9,9,4,Fatal Injury (K),2,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10783,30,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10484,30,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10172,30,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,1,0
+0,10484,30,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10248,30,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9,3,Incapacitating Injury (A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10699,30,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10326,30,1,Male,11,"Front Seat, Left Side",21:00-21:59,1,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10900,30,2,Female,11,"Front Seat, Left Side",21:00-21:59,0,0,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10411,31,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10638,31,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10662,31,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10167,31,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10801,31,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10562,31,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10095,31,1,Male,11,"Front Seat, Left Side",18:00-18:59,0,0,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10374,31,2,Female,11,"Front Seat, Left Side",22:00-22:59,9,9,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10158,32,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10247,32,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10693,32,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,Non-incapacitating Evident Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10423,32,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9,2,Suspected Minor Injury(B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10702,32,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9,3,Suspected Serious Injury(A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10032,32,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10615,32,1,Male,11,"Front Seat, Left Side",5:00-5:59,0,0,4,Fatal Injury (K),1,0,No Rollover,0,2
+0,10552,32,2,Female,11,"Front Seat, Left Side",22:00-22:59,9,9,4,Fatal Injury (K),2,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10100,33,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1,1,Possible Injury (C),,0,No Rollover,0,0
+0,10058,33,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10673,33,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10304,33,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10758,33,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10925,33,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10081,33,1,Male,11,"Front Seat, Left Side",16:00-16:59,1,0,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10067,33,2,Female,11,"Front Seat, Left Side",23:00-23:59,1,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10089,34,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10681,34,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10201,34,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10255,34,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10304,34,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10427,34,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10445,34,1,Male,11,"Front Seat, Left Side",15:00-15:59,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10365,34,2,Female,11,"Front Seat, Left Side",23:00-23:59,1,0,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10498,35,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10651,35,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10615,35,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10472,35,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10130,35,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10105,35,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Suspected Serious Injury(A),0,0,No Rollover,0,0
+0,10264,35,1,Male,11,"Front Seat, Left Side",0:00-0:59,1,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10746,35,2,Female,11,"Front Seat, Left Side",Unknown,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10673,36,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,1
+0,10380,36,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10807,36,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10326,36,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10251,36,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10543,36,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10030,36,1,Male,11,"Front Seat, Left Side",15:00-15:59,1,9,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10097,36,2,Female,11,"Front Seat, Left Side",7:00-7:59,9,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10490,37,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10930,37,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10171,37,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,1
+0,10142,37,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),,0,No Rollover,0,0
+0,10731,37,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10864,37,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),8,9,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10029,37,1,Male,11,"Front Seat, Left Side",21:00-21:59,9,9,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10656,37,2,Female,11,"Front Seat, Left Side",0:00-0:59,1,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10589,38,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10232,38,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10205,38,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,Suspected Minor Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10098,38,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10167,38,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10082,38,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10640,38,1,Male,11,"Front Seat, Left Side",19:00-19:59,1,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10642,38,2,Female,11,"Front Seat, Left Side",17:00-17:59,0,0,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10098,39,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10730,39,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),,0,No Rollover,0,0
+0,10364,39,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10694,39,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10038,39,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,1
+0,10067,39,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10362,39,1,Male,11,"Front Seat, Left Side",Unknown,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10111,39,2,Female,11,"Front Seat, Left Side",13:00-13:59,1,9,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10703,40,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),,0,No Rollover,0,1
+0,10407,40,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10728,40,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,0,2,Suspected Minor Injury(B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10442,40,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury(B),0,0,No Rollover,0,0
+0,10483,40,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10249,40,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10446,40,1,Male,11,"Front Seat, Left Side",20:00-20:59,9,9,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10092,40,2,Female,11,"Front Seat, Left Side",0:00-0:59,9,9,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10056,41,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10503,41,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),,0,No Rollover,0,0
+0,10277,41,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10602,41,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10503,41,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10269,41,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10610,41,1,Male,11,"Front Seat, Left Side",Unknown,0,0,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10062,41,2,Female,11,"Front Seat, Left Side",6:00-6:59,9,9,4,Fatal Injury (K),1,2,"Rollover, Untripped",0,0
+0,10681,42,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10104,42,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10178,42,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10160,42,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10771,42,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10679,42,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10064,42,1,Male,11,"Front Seat, Left Side",12:00-12:59,9,9,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10758,42,2,Female,11,"Front Seat, Left Side",12:00-12:59,0,1,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10217,43,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,1
+0,10217,43,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10190,43,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,Suspected Minor Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10570,43,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury(B),0,0,No Rollover,0,0
+0,10277,43,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10068,43,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury(A),0,0,No Rollover,0,0
+0,10392,43,1,Male,11,"Front Seat, Left Side",15:00-15:59,9,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10030,43,2,Female,11,"Front Seat, Left Side",0:00-0:59,1,0,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10109,44,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,0,1,Possible Injury (C),0,0,No Rollover,0,1
+0,10321,44,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10092,44,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10721,44,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10493,44,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10780,44,1,Male,11,"Front Seat, Left Side",23:00-23:59,1,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10207,44,2,Female,11,"Front Seat, Left Side",2:00-2:59,8,8,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10860,45,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10180,45,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10498,45,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9,2,Suspected Minor Injury(B),0,0,No Rollover,0,0
+0,10296,45,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),,0,No Rollover,0,0
+0,10528,45,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10795,45,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10048,45,1,Male,11,"Front Seat, Left Side",10:00-10:59,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10770,45,2,Female,11,"Front Seat, Left Side",17:00-17:59,9,9,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10639,46,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10095,46,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,1
+0,10744,46,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10040,46,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10018,46,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10077,46,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10100,46,1,Male,11,"Front Seat, Left Side",Unknown,9,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10245,46,2,Female,11,"Front Seat, Left Side",10:00-10:59,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10154,47,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10347,47,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10014,47,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10636,47,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10212,47,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury(A),0,0,No Rollover,0,0
+0,10216,47,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10125,47,1,Male,11,"Front Seat, Left Side",18:00-18:59,9,1,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10439,47,2,Female,11,"Front Seat, Left Side",7:00-7:59,9,9,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10456,48,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,1
+0,10529,48,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10523,48,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury(B),0,0,No Rollover,0,0
+0,10304,48,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10063,48,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10148,48,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1,3,Suspected Serious Injury(A),0,0,No Rollover,0,0
+0,10627,48,1,Male,11,"Front Seat, Left Side",21:00-21:59,9,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10787,48,2,Female,11,"Front Seat, Left Side",5:00-5:59,0,0,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10139,49,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,1,"Rollover, Tripped by Object/Vehicle",0,1
+0,10453,49,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10308,49,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10463,49,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury(B),0,0,No Rollover,0,0
+0,10309,49,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10113,49,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10346,49,1,Male,11,"Front Seat, Left Side",7:00-7:59,9,9,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10162,49,2,Female,11,"Front Seat, Left Side",14:00-14:59,1,9,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10464,50,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,1
+0,10226,50,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10752,50,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10349,50,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10020,50,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10369,50,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10718,50,1,Male,11,"Front Seat, Left Side",20:00-20:59,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10225,50,2,Female,11,"Front Seat, Left Side",22:00-22:59,1,0,4,Fatal Injury (K),2,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10099,51,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10595,51,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10526,51,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,Suspected Minor Injury(B),0,0,No Rollover,0,0
+0,10324,51,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10165,51,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Incapacitating Injury (A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10170,51,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10616,51,1,Male,11,"Front Seat, Left Side",16:00-16:59,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10848,51,2,Female,11,"Front Seat, Left Side",1:00-1:59,9,1,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10522,52,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10125,52,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10627,52,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10181,52,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury(B),0,0,No Rollover,0,0
+0,10674,52,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury(A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10051,52,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10471,52,1,Male,11,"Front Seat, Left Side",5:00-5:59,9,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10394,52,2,Female,11,"Front Seat, Left Side",9:00-9:59,0,0,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10668,53,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10497,53,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),,0,No Rollover,0,0
+0,10417,53,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10491,53,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10570,53,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10273,53,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),8,8,3,Suspected Serious Injury (A),,0,No Rollover,0,0
+0,10509,53,1,Male,11,"Front Seat, Left Side",23:00-23:59,9,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10595,53,2,Female,11,"Front Seat, Left Side",10:00-10:59,9,9,4,Fatal Injury (K),,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10137,54,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10106,54,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),,0,No Rollover,0,0
+0,10323,54,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,1
+0,10041,54,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10014,54,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10350,54,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10133,54,1,Male,11,"Front Seat, Left Side",8:00-8:59,9,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10031,54,2,Female,11,"Front Seat, Left Side",14:00-14:59,0,0,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10016,55,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,1
+0,10525,55,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10514,55,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,1
+0,10344,55,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10812,55,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10108,55,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10531,55,1,Male,11,"Front Seat, Left Side",18:00-18:59,9,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10541,55,2,Female,11,"Front Seat, Left Side",11:00-11:59,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10132,56,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10712,56,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),,0,No Rollover,0,0
+0,10017,56,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury(B),0,0,No Rollover,0,0
+0,10625,56,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10709,56,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10056,56,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10537,56,1,Male,11,"Front Seat, Left Side",14:00-14:59,0,0,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,1
+0,10403,56,2,Female,11,"Front Seat, Left Side",13:00-13:59,9,0,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10111,57,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10352,57,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10325,57,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury(B),0,0,No Rollover,0,0
+0,10356,57,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10065,57,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10144,57,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Suspected Serious Injury(A),0,0,No Rollover,0,0
+0,10038,57,1,Male,11,"Front Seat, Left Side",13:00-13:59,9,9,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10078,57,2,Female,11,"Front Seat, Left Side",13:00-13:59,0,0,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10398,58,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10551,58,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10803,58,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10605,58,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10740,58,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,1
+0,10389,58,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Suspected Serious Injury (A),,0,No Rollover,0,0
+0,10163,58,1,Male,11,"Front Seat, Left Side",14:00-14:59,0,0,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10172,58,2,Female,11,"Front Seat, Left Side",0:00-0:59,0,0,4,Fatal Injury (K),2,0,No Rollover,1,0
+0,10860,59,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),,0,No Rollover,0,0
+0,10568,59,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),8,8,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10515,59,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10518,59,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10560,59,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1,3,Suspected Serious Injury(A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10461,59,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10850,59,1,Male,11,"Front Seat, Left Side",6:00-6:59,9,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10368,59,2,Female,11,"Front Seat, Left Side",13:00-13:59,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10345,60,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10583,60,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),,0,No Rollover,0,0
+0,10778,60,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10608,60,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9,2,Suspected Minor Injury (B),,0,No Rollover,0,0
+0,10760,60,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10248,60,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury(A),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10263,60,1,Male,11,"Front Seat, Left Side",8:00-8:59,0,0,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,1
+0,10943,60,2,Female,11,"Front Seat, Left Side",19:00-19:59,0,0,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10033,61,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10103,61,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10074,61,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9,2,Non-incapacitating Evident Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10223,61,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10135,61,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10529,61,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10446,61,1,Male,11,"Front Seat, Left Side",17:00-17:59,1,9,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10433,61,2,Female,11,"Front Seat, Left Side",12:00-12:59,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10123,62,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,1
+0,10911,62,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10245,62,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury(B),0,0,No Rollover,0,1
+0,10198,62,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),,0,No Rollover,0,0
+0,10219,62,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10276,62,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),,0,No Rollover,0,0
+0,10360,62,1,Male,11,"Front Seat, Left Side",2:00-2:59,9,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10240,62,2,Female,11,"Front Seat, Left Side",8:00-8:59,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10112,63,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,1,Possible Injury (C),,0,No Rollover,0,0
+0,10095,63,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10016,63,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),,0,No Rollover,0,0
+0,10650,63,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,0,No Rollover,0,1
+0,10393,63,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10398,63,1,Male,11,"Front Seat, Left Side",11:00-11:59,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10424,63,2,Female,11,"Front Seat, Left Side",23:00-23:59,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10775,64,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),,0,No Rollover,0,0
+0,10181,64,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,Non-incapacitating Evident Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10171,64,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10081,64,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10551,64,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10719,64,1,Male,11,"Front Seat, Left Side",18:00-18:59,0,0,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10123,64,2,Female,11,"Front Seat, Left Side",6:00-6:59,1,9,4,Fatal Injury (K),2,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10281,65,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10721,65,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10216,65,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10406,65,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),,0,No Rollover,0,0
+0,10013,65,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,0,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10052,65,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury(A),0,0,No Rollover,0,0
+0,10114,65,1,Male,11,"Front Seat, Left Side",18:00-18:59,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10057,65,2,Female,11,"Front Seat, Left Side",17:00-17:59,0,0,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10326,66,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),,0,No Rollover,0,0
+0,10831,66,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10478,66,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10835,66,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10368,66,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10024,66,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10598,66,1,Male,11,"Front Seat, Left Side",Unknown,0,9,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10101,66,2,Female,11,"Front Seat, Left Side",17:00-17:59,9,9,4,Fatal Injury (K),1,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10670,67,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10218,67,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,1,Possible Injury (C),,0,No Rollover,0,0
+0,10415,67,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,1
+0,10499,67,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Non-incapacitating Evident Injury (B),0,0,No Rollover,0,0
+0,10428,67,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Incapacitating Injury (A),0,0,No Rollover,0,0
+0,10773,67,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10498,67,1,Male,11,"Front Seat, Left Side",21:00-21:59,0,0,4,Fatal Injury (K),2,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10259,67,2,Female,11,"Front Seat, Left Side",17:00-17:59,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10702,68,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10336,68,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10722,68,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,1,"Rollover, Tripped by Object/Vehicle",0,0
+0,10874,68,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10770,68,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Suspected Serious Injury (A),0,1,"Rollover, Tripped by Object/Vehicle",0,1
+0,10545,68,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10112,68,1,Male,11,"Front Seat, Left Side",9:00-9:59,0,0,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10399,68,2,Female,11,"Front Seat, Left Side",23:00-23:59,0,0,4,Fatal Injury (K),1,0,No Rollover,0,0
+0,10034,69,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10837,69,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,Possible Injury (C),0,0,No Rollover,0,0
+0,10449,69,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10370,69,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,Suspected Minor Injury (B),0,0,No Rollover,0,0
+0,10084,69,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10624,69,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,0,3,Suspected Serious Injury (A),0,0,No Rollover,0,0
+0,10363,69,1,Male,11,"Front Seat, Left Side",18:00-18:59,0,0,4,Fatal Injury (K),2,0,No Rollover,0,0
+0,10384,69,2,Female,11,"Front Seat, Left Side",17:00-17:59,0,0,4,Fatal Injury (K),68,0,No Rollover,0,0

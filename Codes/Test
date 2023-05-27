@@ -1,0 +1,19 @@
+import numpy as np
+import pandas as pd
+from sklearn.preprocessing import OneHotEncoder
+from collections import defaultdict
+
+light_dict = defaultdict(list)
+df_old = pd.read_csv('/Users/aakarshsurendra/Desktop/Project/558/Codes/State_1_Crash_Details.csv')
+# print(df_old.head())
+
+ohe = OneHotEncoder()
+# print(ohe)
+
+feature_arr = ohe.fit_transform(df_old[["Weather"]]).toarray()
+# print(feature_arr)
+
+feature_lables = ohe.categories_
+feature_lables = list(feature_lables)
+
+df_old.value_counts()['Weather'].replace({'Cloudy':'Clear'})

@@ -1,0 +1,65 @@
+import requests
+import json
+from bs4 import BeautifulSoup
+from sklearn.preprocessing import OneHotEncoder
+import pandas as pd
+from collections import defaultdict
+final_dataframe1 = pd.DataFrame(columns = [
+        "Case Year",
+        "State Case",
+        "Weather",
+        "Light_Type"
+    ])
+
+def crash_details(state_Case, year, state_id):
+    data_list = list()
+    url = f'https://crashviewer.nhtsa.dot.gov/CrashAPI//crashes/GetCaseDetails?stateCase={state_Case}&caseYear={year}&state={state_id}&format=json'
+    page = requests.get(url)
+    data = page.text
+    parse_json = json.loads(data)
+    argument_crash = defaultdict(list)
+    try:
+        data_list.append(parse_json['Results'][0][0]['CrashResultSet']['CaseYear'])
+    except:
+        data_list.append(None)
+    try:
+        data_list.append(parse_json['Results'][0][0]['CrashResultSet']['ST_CASE'])
+    except:
+        data_list.append(None)
+    try:
+        data_list.append(parse_json['Results'][0][0]['CrashResultSet']['WEATHER1NAME'])
+    except:
+        data_list.append(None)
+    try:
+        data_list.append(parse_json['Results'][0][0]['CrashResultSet']['LGT_CONDNAME'])
+    except:
+        data_list.append(None)
+    return data_list
+
+
+case_id = 10002
+case_id_end = 10812
+year_start = 2012
+year_end = 2017
+state = 1
+for i in range(case_id,case_id_end,1):
+   for j in range(year_start,year_end,1):
+        data_list = crash_details(i,j,state)
+        final_dataframe1.loc[len(final_dataframe1)] = data_list
+        print(final_dataframe1)
+# final_dataframe1.to_csv('State_1_Crash_Details.csv')
+
+
+final_dataframe1['Weather'].replace({'Cloudy':'Clear','Unknown':'Not Reported','Other':'Not Reported','Sleet, Hail (Freezing Rain or Drizzle)':'Rain','Freezing Rain or Drizzle':'Rain'}, inplace = True)
+final_dataframe1['Light_Type'].replace({'Dark - Not Lighted':'Dark','Dark - Lighted': 'Dark','Dark - Unknown Lighting':'Dark','Not Reported':'Dark','Other':'Dark','Unknown':'Dark','Dawn':'Dawn/Dusk','Dusk':'Dawn/Dusk'}, inplace = True)
+final_dataframe1.dropna(inplace = True)
+ohe = OneHotEncoder(handle_unknown = 'ignore')
+encoder_df = pd.DataFrame(ohe.fit_transform(final_dataframe1[['Weather']]).toarray())
+encoder_df1 = pd.DataFrame(ohe.fit_transform(final_dataframe1[['Light_Type']]).toarray())
+encoder_df.rename(columns = {0 : 'Clear', 1 : 'Fog, Smog, Smoke',2: 'Weather Not Reported',3: 'Rain',4: 'Snow'}, inplace = True)
+encoder_df1.rename(columns = {0 : 'Dark', 1 : 'Dawn/Dusk',2: 'Daylight'}, inplace = True)
+final_df = pd.concat([final_dataframe1.dropna(),encoder_df.dropna(), encoder_df1.dropna()], axis = "columns" )
+final_df.dropna(inplace = True)
+final_df.drop(final_df.columns[[1,2]], axis = 1, inplace = True)
+final_df.to_csv('Test_Details.csv')
+    

@@ -1,0 +1,50 @@
+from bs4 import BeautifulSoup
+import requests
+import json
+import pandas as pd
+from collections import defaultdict
+
+def crash_by_occupant(age, sex, seat_pos, injury_sev, from_caseyear, to_caseyear, state, include_occupants, include_nonoccupants):
+    url = f"https://crashviewer.nhtsa.dot.gov/CrashAPI/crashes/GetCrashesByPerson?age={age}&sex={sex}&seatPos={seat_pos}&injurySeverity={injury_sev}&fromCaseYear={from_caseyear}&toCaseYear={to_caseyear}&state={state}&includeOccupants={include_occupants}&includeNonOccupants={include_nonoccupants}&format=json"
+    page = requests.get(url)
+    # print(page.status_code)
+    # soup = BeautifulSoup(page.text,'html.parser')
+    # print(soup.prettify())
+    data = page.text
+    parse_json = json.loads(data)
+    # print(type(parse_json))
+    # print(parse_json)
+    attributeDict = defaultdict(list)
+    for attribute in parse_json["Results"][0]:
+        attributeDict["State Case"].append(attribute["ST_CASE"])
+        attributeDict["Age"].append(attribute["AGE"])
+        attributeDict["Sex"].append(attribute["SEX"])
+        # attributeDict["Sex_Name"].append(attribute["SEXNAME"])
+        # attributeDict["Seat"].append(attribute["SEAT_POS"])
+        # attributeDict["Seat_pos"].append(attribute["SEAT_POSNAME"])
+        # attributeDict["Fatality"].append(attribute["DEATH_HRNAME"])
+        attributeDict["Drinking_Involvement"].append(attribute["DRINKING"])
+        attributeDict["Drugs_involvement"].append(attribute["DRUGS"])
+        attributeDict["Injury_Severity"].append(attribute["INJ_SEV"])
+        attributeDict["Race_Involvement"].append(attribute["RACE"])
+        attributeDict["Rollover"].append(attribute["ROLLOVER"])
+        attributeDict["Case Year"].append(attribute["CaseYear"])
+        # attributeDict["SchoolBus_involvement"].append(attribute["SCH_BUS"])
+        # attributeDict["Vehicle_withTrailers"].append(attribute["TOW_VEH"])
+        dataframe = pd.DataFrame(attributeDict)
+        # dataframe.set_index('CASE_ID')
+        # dataframe.sort_index()
+        return dataframe
+age_upper_limit = 71
+age_lower_limit = 18
+crash_occupant_df = pd.DataFrame()
+for i in range(age_lower_limit, age_upper_limit,1):
+    for j in range(1,3,1):
+        for k in range(1,5,1):
+          crash_occupant_df = crash_occupant_df.append(crash_by_occupant(i,j,11,k,2014,2014,1,True,True))
+            # crash_occupant_df.to_csv("April25_set1.csv")
+crash_occupant_df['Drinking_Involvement'].replace({'8':'2','9':'2'}, inplace = True)
+crash_occupant_df['Drugs_involvement'].replace(to_replace = {'8':'2','9':'2'}, inplace = True)
+crash_occupant_df['Race_Involvement'].replace(to_replace = {'2':'1','3':'1'}, inplace = True)
+crash_occupant_df['Rollover'].replace({'2':'1'}, inplace = True)
+crash_occupant_df.to_csv("Occupant_Test.csv")

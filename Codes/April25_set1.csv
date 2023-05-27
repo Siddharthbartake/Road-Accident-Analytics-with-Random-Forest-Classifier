@@ -1,0 +1,329 @@
+,CASE_ID,Age,Sex,Sex_Name,Seat,Seat_pos,Fatality,Drinking_Involvement,Drugs_involvement,Injury_Severity,Race_Involvement,Rollover,SchoolBus_involvement,Vehicle_withTrailers
+0,10169,18,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10143,18,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10172,18,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9 || Unknown,3,0,0,0,0
+0,10400,18,1,Male,11,"Front Seat, Left Side",16:00-16:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10129,18,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10408,18,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10550,18,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,0,0,0
+0,10300,18,2,Female,11,"Front Seat, Left Side",3:00-3:59,9,9 || Unknown,4,1,1,0,0
+0,10710,19,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1 || Yes (drugs involved),2,0,0,0,0
+0,10539,19,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,0,0,0
+0,10080,19,1,Male,11,"Front Seat, Left Side",15:00-15:59,9,9 || Unknown,4,1,1,0,0
+0,10357,19,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10601,19,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9 || Unknown,3,0,0,0,0
+0,10297,19,2,Female,11,"Front Seat, Left Side",12:00-12:59,0,9 || Unknown,4,2,0,0,0
+0,10773,20,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10545,20,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1 || Yes (drugs involved),3,0,1,0,0
+0,10345,20,1,Male,11,"Front Seat, Left Side",6:00-6:59,0,0 || No (drugs not involved),4,2,2,0,0
+0,10700,20,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10099,20,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,1,0,0
+0,10185,20,2,Female,11,"Front Seat, Left Side",14:00-14:59,0,0 || No (drugs not involved),4,2,0,0,0
+0,10598,21,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,0 || No (drugs not involved),2,0,1,0,0
+0,10655,21,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10639,21,1,Male,11,"Front Seat, Left Side",19:00-19:59,9,9 || Unknown,4,1,0,0,0
+0,10091,21,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,1,0,0
+0,10217,21,2,Female,11,"Front Seat, Left Side",1:00-1:59,1,1 || Yes (drugs involved),4,1,1,0,0
+0,10274,22,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9 || Unknown,1,0,1,0,0
+0,10777,22,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10517,22,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,0 || No (drugs not involved),3,0,1,0,0
+0,10215,22,1,Male,11,"Front Seat, Left Side",23:00-23:59,0,0 || No (drugs not involved),4,2,0,0,0
+0,10174,22,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10169,22,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10119,22,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10109,22,2,Female,11,"Front Seat, Left Side",10:00-10:59,0,0 || No (drugs not involved),4,2,0,0,0
+0,10781,23,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9 || Unknown,2,0,1,0,0
+0,10186,23,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10198,23,1,Male,11,"Front Seat, Left Side",1:00-1:59,9,9 || Unknown,4,1,0,0,0
+0,10141,23,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10374,23,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10410,23,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10141,23,2,Female,11,"Front Seat, Left Side",10:00-10:59,9,9 || Unknown,4,1,0,0,0
+0,10343,24,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10048,24,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10626,24,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1 || Yes (drugs involved),3,0,0,0,0
+0,10246,24,1,Male,11,"Front Seat, Left Side",15:00-15:59,9,9 || Unknown,4,2,1,0,0
+0,10522,24,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10401,24,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10386,24,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1 || Yes (drugs involved),3,0,0,0,0
+0,10219,24,2,Female,11,"Front Seat, Left Side",8:00-8:59,9,9 || Unknown,4,1,1,0,0
+0,10277,25,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1 || Yes (drugs involved),1,0,1,0,0
+0,10445,25,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,2,0,0,0,0
+0,10358,25,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,1,0,0
+0,10120,25,1,Male,11,"Front Seat, Left Side",13:00-13:59,9,9 || Unknown,4,1,0,0,0
+0,10150,25,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,0,0,0
+0,10422,25,2,Female,11,"Front Seat, Left Side",13:00-13:59,9,9 || Unknown,4,2,0,0,0
+0,10141,26,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,1
+0,10695,26,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10779,26,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10192,26,1,Male,11,"Front Seat, Left Side",8:00-8:59,0,1 || Yes (drugs involved),4,1,1,0,0
+0,10403,26,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,1,0,1
+0,10561,26,2,Female,11,"Front Seat, Left Side",17:00-17:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10442,27,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1 || Yes (drugs involved),2,0,1,0,0
+0,10615,27,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1 || Yes (drugs involved),3,0,0,0,0
+0,10204,27,1,Male,11,"Front Seat, Left Side",18:00-18:59,8,8 || Not Reported,4,2,1,0,0
+0,10161,27,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10347,27,2,Female,11,"Front Seat, Left Side",10:00-10:59,9,9 || Unknown,4,1,0,0,0
+0,10576,28,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,2,0,1,0,0
+0,10361,28,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10662,28,1,Male,11,"Front Seat, Left Side",9:00-9:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10095,28,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10326,28,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10233,28,2,Female,11,"Front Seat, Left Side",10:00-10:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10455,29,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,2,0,0,0,0
+0,10350,29,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,1,0,0
+0,10716,29,1,Male,11,"Front Seat, Left Side",9:00-9:59,1,9 || Unknown,4,1,0,0,0
+0,10660,29,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10075,29,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10042,29,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10703,29,2,Female,11,"Front Seat, Left Side",Unknown,0,0 || No (drugs not involved),4,1,0,0,0
+0,10595,30,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10552,30,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,2,0,1,0,0
+0,10141,30,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,1
+0,10655,30,1,Male,11,"Front Seat, Left Side",14:00-14:59,9,9 || Unknown,4,2,0,0,0
+0,10484,30,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10238,30,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,1,0,0
+0,10219,30,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10254,30,2,Female,11,"Front Seat, Left Side",17:00-17:59,9,9 || Unknown,4,1,1,0,0
+0,10103,31,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1 || Yes (drugs involved),2,0,0,0,0
+0,10411,31,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1 || Yes (drugs involved),3,0,0,0,0
+0,10003,31,1,Male,11,"Front Seat, Left Side",1:00-1:59,1,9 || Unknown,4,2,1,0,0
+0,10010,31,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10016,31,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1 || Yes (drugs involved),3,0,1,0,0
+0,10642,31,2,Female,11,"Front Seat, Left Side",0:00-0:59,9,9 || Unknown,4,2,0,0,0
+0,10158,32,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10669,32,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9 || Unknown,2,0,1,0,0
+0,10702,32,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9 || Unknown,3,0,1,0,0
+0,10462,32,1,Male,11,"Front Seat, Left Side",20:00-20:59,0,0 || No (drugs not involved),4,2,0,0,0
+0,10635,32,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10251,32,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,1,0,0
+0,10377,32,2,Female,11,"Front Seat, Left Side",8:00-8:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10784,33,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,0 || No (drugs not involved),2,0,0,0,0
+0,10118,33,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9 || Unknown,3,0,0,0,0
+0,10439,33,1,Male,11,"Front Seat, Left Side",1:00-1:59,1,0 || No (drugs not involved),4,2,0,0,0
+0,10131,33,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10304,33,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10050,33,2,Female,11,"Front Seat, Left Side",22:00-22:59,1,0 || No (drugs not involved),4,1,1,0,0
+0,10089,34,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10603,34,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,2,0,0,0,0
+0,10711,34,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9 || Unknown,3,0,0,0,0
+0,10107,34,1,Male,11,"Front Seat, Left Side",1:00-1:59,1,9 || Unknown,4,2,0,0,0
+0,10779,34,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1 || Yes (drugs involved),3,0,0,0,6
+0,10492,34,2,Female,11,"Front Seat, Left Side",17:00-17:59,9,9 || Unknown,4,1,1,0,0
+0,10653,35,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10270,35,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10459,35,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1 || Yes (drugs involved),3,0,0,0,0
+0,10009,35,1,Male,11,"Front Seat, Left Side",8:00-8:59,9,9 || Unknown,4,1,1,0,0
+0,10096,35,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10698,35,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10105,35,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,0,0,0
+0,10409,35,2,Female,11,"Front Seat, Left Side",11:00-11:59,9,9 || Unknown,4,2,1,0,0
+0,10438,36,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,1
+0,10081,36,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9 || Unknown,2,0,0,0,0
+0,10251,36,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,0,0,0
+0,10030,36,1,Male,11,"Front Seat, Left Side",15:00-15:59,1,9 || Unknown,4,1,1,0,0
+0,10639,36,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10144,36,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10505,36,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10097,36,2,Female,11,"Front Seat, Left Side",7:00-7:59,9,9 || Unknown,4,1,0,0,0
+0,10398,37,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,0 || No (drugs not involved),1,0,0,0,0
+0,10362,37,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9 || Unknown,2,0,0,0,0
+0,10558,37,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10173,37,1,Male,11,"Front Seat, Left Side",1:00-1:59,1,9 || Unknown,4,2,1,0,0
+0,10132,37,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10023,37,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10036,37,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,0,0,0
+0,10211,37,2,Female,11,"Front Seat, Left Side",9:00-9:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10258,38,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,1,0,0
+0,10034,38,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1 || Yes (drugs involved),3,0,0,0,0
+0,10234,38,1,Male,11,"Front Seat, Left Side",22:00-22:59,1,9 || Unknown,4,1,1,0,0
+0,10232,38,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10289,38,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10317,38,2,Female,11,"Front Seat, Left Side",14:00-14:59,0,9 || Unknown,4,2,0,0,0
+0,10105,39,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1 || Yes (drugs involved),2,0,0,0,0
+0,10381,39,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10566,39,1,Male,11,"Front Seat, Left Side",11:00-11:59,9,9 || Unknown,4,1,1,0,0
+0,10095,39,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10610,39,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1 || Yes (drugs involved),3,0,0,0,0
+0,10315,39,2,Female,11,"Front Seat, Left Side",18:00-18:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10034,40,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10591,40,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1 || Yes (drugs involved),2,0,0,0,0
+0,10272,40,1,Male,11,"Front Seat, Left Side",18:00-18:59,0,0 || No (drugs not involved),4,1,0,0,1
+0,10484,40,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10340,40,2,Female,11,"Front Seat, Left Side",11:00-11:59,0,9 || Unknown,4,1,1,0,0
+0,10574,41,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,1,0,0,0,0
+0,10277,41,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10567,41,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,1,0,0
+0,10221,41,1,Male,11,"Front Seat, Left Side",14:00-14:59,9,9 || Unknown,4,1,1,0,0
+0,10685,41,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,1,0,0,0,0
+0,10602,41,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,1,0,0
+0,10269,41,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10142,42,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10250,42,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,2,0,0,0,0
+0,10065,42,1,Male,11,"Front Seat, Left Side",11:00-11:59,0,0 || No (drugs not involved),4,1,1,0,0
+0,10626,42,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10322,42,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10146,42,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9 || Unknown,3,0,0,0,0
+0,10011,42,2,Female,11,"Front Seat, Left Side",20:00-20:59,0,0 || No (drugs not involved),4,1,1,0,0
+0,10190,43,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,2,0,1,0,0
+0,10441,43,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10047,43,1,Male,11,"Front Seat, Left Side",5:00-5:59,0,0 || No (drugs not involved),4,2,1,0,0
+0,10217,43,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10720,43,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9 || Unknown,2,0,0,0,0
+0,10525,43,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10626,43,2,Female,11,"Front Seat, Left Side",4:00-4:59,0,0 || No (drugs not involved),4,2,0,0,0
+0,10387,44,1,Male,11,"Front Seat, Left Side",20:00-20:59,9,9 || Unknown,4,1,0,0,0
+0,10474,44,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9 || Unknown,2,0,0,0,0
+0,10153,44,2,Female,11,"Front Seat, Left Side",17:00-17:59,9,9 || Unknown,4,2,0,0,0
+0,10141,45,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,1
+0,10147,45,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9 || Unknown,3,0,1,0,1
+0,10500,45,1,Male,11,"Front Seat, Left Side",7:00-7:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10180,45,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10641,45,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,1,0,0
+0,10114,45,2,Female,11,"Front Seat, Left Side",22:00-22:59,9,9 || Unknown,4,1,0,0,0
+0,10095,46,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,1
+0,10025,46,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10018,46,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1 || Yes (drugs involved),3,0,0,0,0
+0,10110,46,1,Male,11,"Front Seat, Left Side",16:00-16:59,9,9 || Unknown,4,2,0,0,0
+0,10614,46,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10487,46,2,Female,11,"Front Seat, Left Side",19:00-19:59,1,1 || Yes (drugs involved),4,1,1,0,0
+0,10363,47,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10565,47,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,2,0,0,0,1
+0,10239,47,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10348,47,1,Male,11,"Front Seat, Left Side",15:00-15:59,1,9 || Unknown,4,2,0,0,0
+0,10537,47,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10636,47,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10047,47,2,Female,11,"Front Seat, Left Side",0:00-0:59,9,9 || Unknown,4,2,0,0,0
+0,10505,48,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,1
+0,10523,48,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10039,48,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9 || Unknown,3,0,1,0,0
+0,10202,48,1,Male,11,"Front Seat, Left Side",20:00-20:59,9,9 || Unknown,4,2,1,0,0
+0,10746,48,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10469,48,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10194,48,2,Female,11,"Front Seat, Left Side",4:00-4:59,9,9 || Unknown,4,2,1,0,0
+0,10139,49,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,1,0,1
+0,10308,49,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10309,49,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,1,0,0
+0,10762,49,1,Male,11,"Front Seat, Left Side",4:00-4:59,0,1 || Yes (drugs involved),4,1,0,0,1
+0,10463,49,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10200,49,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10095,49,2,Female,11,"Front Seat, Left Side",8:00-8:59,0,0 || No (drugs not involved),4,2,0,0,0
+0,10560,50,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10020,50,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10376,50,1,Male,11,"Front Seat, Left Side",4:00-4:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10207,50,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10349,50,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10034,50,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10175,50,2,Female,11,"Front Seat, Left Side",11:00-11:59,9,9 || Unknown,4,1,0,0,0
+0,10352,51,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10574,51,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1 || Yes (drugs involved),3,0,0,0,0
+0,10226,51,1,Male,11,"Front Seat, Left Side",9:00-9:59,0,0 || No (drugs not involved),4,2,1,0,0
+0,10595,51,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10343,51,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,1,0,0
+0,10170,51,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10068,51,2,Female,11,"Front Seat, Left Side",15:00-15:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10522,52,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10411,52,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,1,0,0
+0,10384,52,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,0,0,0
+0,10353,52,1,Male,11,"Front Seat, Left Side",2:00-2:59,9,9 || Unknown,4,1,0,0,0
+0,10143,52,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10078,52,2,Female,11,"Front Seat, Left Side",15:00-15:59,0,0 || No (drugs not involved),4,2,1,0,0
+0,10141,53,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10441,53,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,0,0,0
+0,10705,53,1,Male,11,"Front Seat, Left Side",17:00-17:59,0,0 || No (drugs not involved),4,1,1,0,0
+0,10491,53,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1 || Yes (drugs involved),2,0,0,0,0
+0,10602,53,2,Female,11,"Front Seat, Left Side",7:00-7:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10649,54,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,1,0,0
+0,10370,54,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10133,54,1,Male,11,"Front Seat, Left Side",8:00-8:59,9,9 || Unknown,4,1,0,0,0
+0,10205,54,2,Female,11,"Front Seat, Left Side",13:00-13:59,9,9 || Unknown,4,1,0,0,0
+0,10363,55,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,1
+0,10286,55,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,0,0,0
+0,10013,55,1,Male,11,"Front Seat, Left Side",10:00-10:59,0,0 || No (drugs not involved),4,1,1,0,0
+0,10103,55,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10271,55,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10159,55,2,Female,11,"Front Seat, Left Side",19:00-19:59,8,8 || Not Reported,4,1,0,0,0
+0,10132,56,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10017,56,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10537,56,1,Male,11,"Front Seat, Left Side",14:00-14:59,0,0 || No (drugs not involved),4,1,1,0,1
+0,10588,56,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10403,56,2,Female,11,"Front Seat, Left Side",13:00-13:59,9,0 || No (drugs not involved),4,2,0,0,0
+0,10440,57,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10707,57,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10037,57,1,Male,11,"Front Seat, Left Side",15:00-15:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10356,57,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10144,57,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,0,0,0
+0,10589,57,2,Female,11,"Front Seat, Left Side",9:00-9:59,0,0 || No (drugs not involved),4,1,1,0,0
+0,10051,58,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,0,0,0
+0,10122,58,1,Male,11,"Front Seat, Left Side",11:00-11:59,8,8 || Not Reported,4,2,0,0,0
+0,10570,58,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,2,0,0,0,0
+0,10490,58,2,Female,11,"Front Seat, Left Side",20:00-20:59,9,1 || Yes (drugs involved),4,1,0,0,0
+0,10575,59,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10661,59,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10097,59,1,Male,11,"Front Seat, Left Side",7:00-7:59,9,9 || Unknown,4,1,0,0,0
+0,10760,59,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,0,0,0
+0,10454,59,2,Female,11,"Front Seat, Left Side",12:00-12:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10614,60,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10760,60,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10610,60,1,Male,11,"Front Seat, Left Side",8:00-8:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10686,60,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10446,60,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10695,60,2,Female,11,"Front Seat, Left Side",17:00-17:59,0,9 || Unknown,4,1,1,0,0
+0,10046,61,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10135,61,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,0,0,0
+0,10475,61,1,Male,11,"Front Seat, Left Side",23:00-23:59,1,9 || Unknown,4,2,1,0,0
+0,10223,61,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10268,61,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10091,61,2,Female,11,"Front Seat, Left Side",11:00-11:59,0,0 || No (drugs not involved),4,2,0,0,0
+0,10123,62,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10245,62,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,1
+0,10664,62,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10159,62,1,Male,11,"Front Seat, Left Side",Unknown,0,9 || Unknown,4,1,0,0,0
+0,10179,62,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10108,62,2,Female,11,"Front Seat, Left Side",19:00-19:59,9,9 || Unknown,4,1,0,0,0
+0,10307,63,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,1
+0,10095,63,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,1,0,0
+0,10650,63,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,1
+0,10039,63,1,Male,11,"Front Seat, Left Side",0:00-0:59,9,9 || Unknown,4,1,0,0,0
+0,10441,63,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10393,63,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10607,63,2,Female,11,"Front Seat, Left Side",17:00-17:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10358,64,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10010,64,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10006,64,1,Male,11,"Front Seat, Left Side",12:00-12:59,0,0 || No (drugs not involved),4,1,1,0,0
+0,10249,64,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10112,64,2,Female,11,"Front Seat, Left Side",1:00-1:59,9,9 || Unknown,4,1,1,0,0
+0,10186,65,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,2,0,1,0,0
+0,10514,65,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9 || Unknown,3,0,0,0,0
+0,10383,65,1,Male,11,"Front Seat, Left Side",17:00-17:59,9,9 || Unknown,4,1,0,0,0
+0,10721,65,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10057,65,2,Female,11,"Front Seat, Left Side",17:00-17:59,0,0 || No (drugs not involved),4,1,1,0,0
+0,10478,66,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10021,66,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10088,66,1,Male,11,"Front Seat, Left Side",20:00-20:59,1,9 || Unknown,4,2,1,0,0
+0,10607,66,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10101,66,2,Female,11,"Front Seat, Left Side",17:00-17:59,9,9 || Unknown,4,1,1,0,0
+0,10670,67,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,1,0,0
+0,10048,67,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10193,67,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10518,67,1,Male,11,"Front Seat, Left Side",23:00-23:59,9,9 || Unknown,4,1,0,0,0
+0,10654,67,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10652,67,2,Female,11,"Front Seat, Left Side",19:00-19:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10059,68,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10770,68,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9 || Unknown,3,0,1,0,1
+0,10179,68,1,Male,11,"Front Seat, Left Side",10:00-10:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10037,68,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10290,68,2,Female,11,"Front Seat, Left Side",16:00-16:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10042,69,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),1,0,0,0,0
+0,10548,69,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10150,69,1,Male,11,"Front Seat, Left Side",11:00-11:59,9,9 || Unknown,4,1,0,0,0
+0,10224,69,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9 || Unknown,1,0,0,0,0
+0,10370,69,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10165,69,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10384,69,2,Female,11,"Front Seat, Left Side",17:00-17:59,0,0 || No (drugs not involved),4,68,0,0,0
+0,10420,70,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10021,70,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10440,70,1,Male,11,"Front Seat, Left Side",4:00-4:59,0,0 || No (drugs not involved),4,1,0,0,0
+0,10460,70,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),2,0,0,0,0
+0,10549,70,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0 || No (drugs not involved),3,0,0,0,0
+0,10171,70,2,Female,11,"Front Seat, Left Side",3:00-3:59,0,0 || No (drugs not involved),4,1,0,0,0

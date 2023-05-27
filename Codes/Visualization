@@ -1,0 +1,16 @@
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
+dataset = pd.read_csv('FD_State_1,2014.csv')
+plt.figure(figsize=(14, 9))
+dataset_1 = dataset['Drinking_Involvement'].value_counts().values.tolist()
+plt.pie(dataset_1, labels = ['Not-Drunk','Not-Reported','Drunk'],autopct='%1.1f%%')
+plt.figure(figsize=(14, 9))
+dataset_2 = dataset['Drugs_involvement'].value_counts().values.tolist()
+plt.pie(dataset_2, labels = ['No Drugs Involved','Not-Reported','Drugs Involvement Reported'], autopct='%1.1f%%')
+plt.figure(figsize=(14, 9))
+dataset_3 = dataset['Race_Involvement'].value_counts().values.tolist()
+plt.pie(dataset_3, labels = ['No Racing Involved','Racing Involved'], autopct='%1.1f%%')
+plt.figure(figsize=(14, 9))
+dataset_4 = dataset['Rollover'].value_counts().values.tolist()
+plt.pie(dataset_4, labels = ['No Rollover of Vehicle','Vehicle Rollover Reported'],autopct='%1.1f%%')

@@ -1,0 +1,335 @@
+,CASE_ID,Age,Sex,Sex_Name,Seat,Seat_pos,Fatality,Drinking_Involvement,Drugs_involvement,Injury_Severity,Race_Involvement,Rollover,SchoolBus_involvement,Vehicle_withTrailers
+0,10548,18,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10568,18,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10080,18,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,1,0,0
+0,10544,18,1,Male,11,"Front Seat, Left Side",22:00-22:59,0,0,4,1,0,0,0
+0,10284,18,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10504,18,2,Female,11,"Front Seat, Left Side",8:00-8:59,0,0,4,1,0,0,0
+0,10391,19,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10377,19,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,0,0,0,0
+0,10749,19,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9,3,0,0,0,0
+0,10007,19,1,Male,11,"Front Seat, Left Side",Unknown,1,0,4,1,1,0,0
+0,10056,19,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,1,0,0
+0,10523,19,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,0,1,0,0
+0,10193,19,2,Female,11,"Front Seat, Left Side",16:00-16:59,9,9,4,1,0,0,0
+0,10323,20,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,1,0,0
+0,10043,20,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10700,20,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10305,20,1,Male,11,"Front Seat, Left Side",7:00-7:59,9,9,4,1,0,0,0
+0,10343,20,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10317,20,2,Female,11,"Front Seat, Left Side",Unknown,9,9,4,1,1,0,0
+0,10113,21,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10032,21,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1,3,0,0,0,0
+0,10125,21,1,Male,11,"Front Seat, Left Side",20:00-20:59,9,9,4,1,0,0,0
+0,10364,21,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10273,21,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,0,1,0,0
+0,10697,21,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),8,8,3,0,0,0,0
+0,10379,21,2,Female,11,"Front Seat, Left Side",1:00-1:59,9,9,4,1,0,0,0
+0,10490,22,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9,2,0,1,0,0
+0,10179,22,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1,3,0,0,0,0
+0,10345,22,1,Male,11,"Front Seat, Left Side",1:00-1:59,9,9,4,1,0,0,0
+0,10350,22,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,1,0,1,0,0
+0,10590,22,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9,2,0,1,0,0
+0,10094,22,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9,3,0,1,0,0
+0,10404,22,2,Female,11,"Front Seat, Left Side",17:00-17:59,0,0,4,1,0,0,0
+0,10038,23,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,1,0,0,0,0
+0,10110,23,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10029,23,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10646,23,1,Male,11,"Front Seat, Left Side",13:00-13:59,0,0,4,1,0,0,0
+0,10384,23,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,0,1,0,0
+0,10306,23,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,1,0,0
+0,10105,23,2,Female,11,"Front Seat, Left Side",Unknown,9,9,4,2,1,0,0
+0,10160,24,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10328,24,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10318,24,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1,3,0,1,0,0
+0,10032,24,1,Male,11,"Front Seat, Left Side",0:00-0:59,9,9,4,1,0,0,0
+0,10255,24,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10140,24,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10685,24,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,0,0,0,0
+0,10019,24,2,Female,11,"Front Seat, Left Side",6:00-6:59,9,9,4,2,0,0,0
+0,10712,25,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,8,1,0,1,0,0
+0,10554,25,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9,2,0,1,0,0
+0,10634,25,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10637,25,1,Male,11,"Front Seat, Left Side",23:00-23:59,1,0,4,1,0,0,0
+0,10798,25,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10225,25,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1,3,0,0,0,0
+0,10700,25,2,Female,11,"Front Seat, Left Side",14:00-14:59,0,0,4,1,1,0,0
+0,10028,26,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10155,26,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10246,26,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,0,3,0,1,0,0
+0,10092,26,1,Male,11,"Front Seat, Left Side",1:00-1:59,1,0,4,1,1,0,0
+0,10208,26,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10064,26,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10234,26,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,0,0,0,0
+0,10484,26,2,Female,11,"Front Seat, Left Side",17:00-17:59,0,0,4,1,1,0,0
+0,10572,27,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10367,27,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10151,27,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9,3,0,0,0,0
+0,10301,27,1,Male,11,"Front Seat, Left Side",23:00-23:59,0,0,4,1,0,0,0
+0,10681,27,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10515,27,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10131,27,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,0,1,0,0
+0,10607,27,2,Female,11,"Front Seat, Left Side",22:00-22:59,9,9,4,1,0,0,0
+0,10397,28,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10731,28,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10273,28,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10772,28,1,Male,11,"Front Seat, Left Side",Unknown,9,9,4,1,0,0,0
+0,10598,28,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9,3,0,1,0,0
+0,10747,28,2,Female,11,"Front Seat, Left Side",2:00-2:59,1,0,4,2,0,0,0
+0,10260,29,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,1,2,0,1,0,0
+0,10628,29,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9,3,0,1,0,0
+0,10693,29,1,Male,11,"Front Seat, Left Side",2:00-2:59,0,0,4,1,0,0,0
+0,10472,29,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10420,29,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9,2,0,1,0,0
+0,10037,29,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10037,29,2,Female,11,"Front Seat, Left Side",0:00-0:59,0,9,4,1,1,0,0
+0,10146,30,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10643,30,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,0,1,0,0
+0,10158,30,1,Male,11,"Front Seat, Left Side",17:00-17:59,9,9,4,1,0,0,0
+0,10757,30,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10030,30,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10699,30,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10490,30,2,Female,11,"Front Seat, Left Side",19:00-19:59,0,0,4,1,0,0,0
+0,10229,31,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10068,31,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9,2,0,1,0,0
+0,10780,31,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,5
+0,10525,31,1,Male,11,"Front Seat, Left Side",17:00-17:59,9,9,4,1,0,0,0
+0,10472,31,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1,1,0,0,0,0
+0,10107,31,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10752,31,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,0,0,0,0
+0,10374,31,2,Female,11,"Front Seat, Left Side",22:00-22:59,9,9,4,2,0,0,0
+0,10609,32,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10672,32,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9,3,0,0,0,0
+0,10615,32,1,Male,11,"Front Seat, Left Side",5:00-5:59,0,0,4,1,0,0,2
+0,10423,32,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9,2,0,1,0,0
+0,10757,32,2,Female,11,"Front Seat, Left Side",0:00-0:59,9,9,4,1,0,0,0
+0,10709,33,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10126,33,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9,3,0,0,0,0
+0,10668,33,1,Male,11,"Front Seat, Left Side",5:00-5:59,1,1,4,2,1,0,0
+0,10058,33,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10084,33,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10327,33,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,0,0,0,0
+0,10067,33,2,Female,11,"Front Seat, Left Side",23:00-23:59,1,9,4,1,0,0,0
+0,10566,34,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9,2,0,0,0,0
+0,10517,34,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10367,34,1,Male,11,"Front Seat, Left Side",23:00-23:59,9,9,4,2,1,0,0
+0,10539,34,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10737,34,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1,3,0,1,0,0
+0,10448,34,2,Female,11,"Front Seat, Left Side",20:00-20:59,0,9,4,1,1,0,0
+0,10125,35,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1,1,0,0,0,0
+0,10302,35,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,1,0,1
+0,10382,35,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1,3,0,1,0,0
+0,10710,35,1,Male,11,"Front Seat, Left Side",9:00-9:59,9,9,4,1,0,0,0
+0,10103,35,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10746,35,2,Female,11,"Front Seat, Left Side",Unknown,0,0,4,1,0,0,0
+0,10704,36,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10333,36,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10256,36,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,1,0,0
+0,10425,36,1,Male,11,"Front Seat, Left Side",2:00-2:59,9,9,4,1,0,0,0
+0,10380,36,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9,1,0,0,0,0
+0,10188,36,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10567,36,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10449,36,2,Female,11,"Front Seat, Left Side",Unknown,9,9,4,1,0,0,0
+0,10490,37,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10442,37,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10082,37,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,0,0,0,0
+0,10428,37,1,Male,11,"Front Seat, Left Side",Unknown,1,0,4,1,0,0,0
+0,10443,37,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10210,37,2,Female,11,"Front Seat, Left Side",4:00-4:59,0,0,4,2,0,0,0
+0,10589,38,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10436,38,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,1,2,0,0,0,0
+0,10167,38,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,0,0,0,0
+0,10640,38,1,Male,11,"Front Seat, Left Side",19:00-19:59,1,9,4,1,0,0,0
+0,10581,38,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,1,0,0
+0,10404,38,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10243,38,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10311,38,2,Female,11,"Front Seat, Left Side",19:00-19:59,0,0,4,1,0,0,0
+0,10346,39,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,1
+0,10795,39,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,1,0,0
+0,10418,39,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10031,39,1,Male,11,"Front Seat, Left Side",5:00-5:59,9,9,4,1,1,0,0
+0,10706,39,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,1,2,0,1,0,0
+0,10281,39,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10111,39,2,Female,11,"Front Seat, Left Side",13:00-13:59,1,9,4,1,1,0,0
+0,10728,40,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,0,2,0,1,0,0
+0,10556,40,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,1
+0,10463,40,1,Male,11,"Front Seat, Left Side",0:00-0:59,1,0,4,1,0,0,0
+0,10313,40,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10399,40,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10105,40,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10406,40,2,Female,11,"Front Seat, Left Side",5:00-5:59,0,0,4,1,0,0,0
+0,10416,41,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,1,2,0,1,0,0
+0,10631,41,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,1,0,1
+0,10484,41,1,Male,11,"Front Seat, Left Side",Unknown,1,9,4,1,0,0,0
+0,10578,41,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9,1,0,0,0,0
+0,10792,41,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),8,8,2,0,0,0,0
+0,10246,41,2,Female,11,"Front Seat, Left Side",6:00-6:59,0,0,4,1,0,0,0
+0,10276,42,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,1,0,0,0,0
+0,10358,42,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,1
+0,10510,42,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,1
+0,10551,42,1,Male,11,"Front Seat, Left Side",15:00-15:59,9,9,4,3,0,0,0
+0,10155,42,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,1,1,0,0,0,0
+0,10679,42,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,1,0,0
+0,10758,42,2,Female,11,"Front Seat, Left Side",12:00-12:59,0,1,4,1,0,0,0
+0,10599,43,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,1,0,0,0,0
+0,10144,43,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,1,0
+0,10564,43,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1,3,0,1,0,0
+0,10685,43,1,Male,11,"Front Seat, Left Side",2:00-2:59,0,1,4,1,0,0,1
+0,10455,43,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10779,43,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10349,43,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,1,0,0
+0,10035,43,2,Female,11,"Front Seat, Left Side",19:00-19:59,0,0,4,2,1,0,0
+0,10117,44,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10272,44,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10380,44,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,0,1,0,0
+0,10059,44,1,Male,11,"Front Seat, Left Side",Unknown,9,9,4,1,0,0,0
+0,10003,44,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,1,0,0
+0,10719,44,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10754,44,2,Female,11,"Front Seat, Left Side",Unknown,9,9,4,2,1,0,0
+0,10008,45,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10498,45,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,9,2,0,0,0,0
+0,10130,45,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,1
+0,10491,45,1,Male,11,"Front Seat, Left Side",17:00-17:59,0,0,4,1,0,0,0
+0,10386,45,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10214,45,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10132,45,2,Female,11,"Front Seat, Left Side",1:00-1:59,9,9,4,1,1,0,0
+0,10054,46,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,0,2,0,0,0,0
+0,10477,46,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,0,0,0,0
+0,10444,46,1,Male,11,"Front Seat, Left Side",2:00-2:59,1,9,4,1,1,0,0
+0,10680,46,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10136,46,2,Female,11,"Front Seat, Left Side",11:00-11:59,9,9,4,1,0,0,0
+0,10543,47,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10136,47,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10222,47,1,Male,11,"Front Seat, Left Side",23:00-23:59,0,0,4,2,1,0,0
+0,10347,47,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10218,47,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10564,47,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10172,47,2,Female,11,"Front Seat, Left Side",21:00-21:59,9,9,4,2,0,0,0
+0,10455,48,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10714,48,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,0,2,0,1,0,0
+0,10527,48,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,1
+0,10624,48,1,Male,11,"Front Seat, Left Side",23:00-23:59,0,0,4,1,0,0,0
+0,10464,48,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10148,48,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1,3,0,0,0,0
+0,10391,48,2,Female,11,"Front Seat, Left Side",10:00-10:59,9,9,4,2,1,0,0
+0,10162,49,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10582,49,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10123,49,1,Male,11,"Front Seat, Left Side",19:00-19:59,9,9,4,1,1,0,0
+0,10632,49,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10304,49,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10520,49,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,0,3,0,0,0,0
+0,10143,49,2,Female,11,"Front Seat, Left Side",21:00-21:59,0,0,4,1,0,0,0
+0,10464,50,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,1
+0,10216,50,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10371,50,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,0,1,0,0
+0,10759,50,1,Male,11,"Front Seat, Left Side",21:00-21:59,1,9,4,1,0,0,0
+0,10368,50,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10331,50,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10310,50,2,Female,11,"Front Seat, Left Side",0:00-0:59,0,0,4,1,0,0,0
+0,10428,51,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10367,51,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10436,51,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10470,51,1,Male,11,"Front Seat, Left Side",1:00-1:59,1,0,4,2,1,0,0
+0,10170,51,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10198,51,2,Female,11,"Front Seat, Left Side",13:00-13:59,0,0,4,1,0,0,0
+0,10380,52,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,1
+0,10058,52,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10674,52,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,1,0,0
+0,10031,52,1,Male,11,"Front Seat, Left Side",3:00-3:59,1,9,4,1,0,0,0
+0,10181,52,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10433,52,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10811,52,2,Female,11,"Front Seat, Left Side",Unknown,0,0,4,2,0,0,0
+0,10735,53,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,0,0,0,1
+0,10095,53,1,Male,11,"Front Seat, Left Side",11:00-11:59,9,9,4,1,1,0,0
+0,10103,53,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10075,53,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10416,53,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10297,53,2,Female,11,"Front Seat, Left Side",18:00-18:59,0,0,4,1,0,0,0
+0,10137,54,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10719,54,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10005,54,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10068,54,1,Male,11,"Front Seat, Left Side",16:00-16:59,0,0,4,1,0,0,0
+0,10299,54,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10041,54,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,0,0,0,0
+0,10413,54,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10363,54,2,Female,11,"Front Seat, Left Side",16:00-16:59,0,0,4,1,0,0,0
+0,10569,55,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10327,55,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10407,55,1,Male,11,"Front Seat, Left Side",13:00-13:59,0,0,4,1,1,0,0
+0,10141,55,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10177,55,2,Female,11,"Front Seat, Left Side",7:00-7:59,9,9,4,2,0,0,0
+0,10084,56,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,0,1,0,0
+0,10152,56,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,1,0,0
+0,10675,56,1,Male,11,"Front Seat, Left Side",14:00-14:59,9,9,4,1,1,0,0
+0,10617,56,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10625,56,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10536,56,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,0,1,0,0
+0,10369,56,2,Female,11,"Front Seat, Left Side",12:00-12:59,9,9,4,1,0,0,0
+0,10217,57,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10381,57,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10466,57,1,Male,11,"Front Seat, Left Side",14:00-14:59,0,0,4,1,1,0,0
+0,10110,57,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10269,57,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10578,57,2,Female,11,"Front Seat, Left Side",19:00-19:59,0,0,4,1,0,0,0
+0,10287,58,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10688,58,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10079,58,1,Male,11,"Front Seat, Left Side",21:00-21:59,0,0,4,1,0,0,0
+0,10067,58,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10526,58,2,Female,11,"Front Seat, Left Side",1:00-1:59,1,9,4,1,0,0,0
+0,10456,59,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,1
+0,10560,59,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,1,3,0,1,0,0
+0,10278,59,1,Male,11,"Front Seat, Left Side",19:00-19:59,0,0,4,1,0,0,0
+0,10335,59,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),1,9,2,0,1,0,0
+0,10032,59,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10349,59,2,Female,11,"Front Seat, Left Side",16:00-16:59,0,0,4,1,0,0,0
+0,10729,60,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,0,0,0,0
+0,10028,60,1,Male,11,"Front Seat, Left Side",10:00-10:59,0,0,4,1,0,0,0
+0,10248,60,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,1,0,0
+0,10192,60,2,Female,11,"Front Seat, Left Side",14:00-14:59,0,0,4,1,1,0,0
+0,10638,61,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,1
+0,10142,61,1,Male,11,"Front Seat, Left Side",15:00-15:59,9,9,4,1,0,0,0
+0,10103,61,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10529,61,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10433,61,2,Female,11,"Front Seat, Left Side",12:00-12:59,0,0,4,1,0,0,0
+0,10045,62,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,1
+0,10580,62,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,3,0,0,0,0
+0,10017,62,1,Male,11,"Front Seat, Left Side",17:00-17:59,0,0,4,1,0,0,0
+0,10038,62,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),8,8,1,0,0,0,0
+0,10585,62,2,Female,11,"Front Seat, Left Side",Unknown,9,9,4,1,0,0,0
+0,10178,63,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10398,63,1,Male,11,"Front Seat, Left Side",11:00-11:59,0,0,4,1,0,0,0
+0,10562,63,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10255,63,2,Female,11,"Front Seat, Left Side",13:00-13:59,0,0,4,1,0,0,0
+0,10596,64,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10422,64,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,1,0,1
+0,10618,64,1,Male,11,"Front Seat, Left Side",7:00-7:59,8,8,4,1,0,0,0
+0,10725,64,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10116,64,2,Female,11,"Front Seat, Left Side",16:00-16:59,0,0,4,2,0,0,0
+0,10281,65,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,0,0
+0,10344,65,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,0,1,0,0
+0,10702,65,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,1,0,0
+0,10538,65,1,Male,11,"Front Seat, Left Side",16:00-16:59,9,9,4,2,1,0,0
+0,10052,65,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10144,65,2,Female,11,"Front Seat, Left Side",20:00-20:59,1,9,4,1,0,0,0
+0,10689,66,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),9,9,2,0,0,0,1
+0,10654,66,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,1
+0,10511,66,1,Male,11,"Front Seat, Left Side",11:00-11:59,0,0,4,2,0,0,0
+0,10592,66,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10434,66,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,1,0,0
+0,10111,66,2,Female,11,"Front Seat, Left Side",Unknown,9,9,4,1,1,0,0
+0,10651,67,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10002,67,1,Male,11,"Front Seat, Left Side",Unknown,0,0,4,1,0,0,0
+0,10593,67,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10475,68,1,Male,11,"Front Seat, Left Side",7:00-7:59,9,9,4,2,0,0,0
+0,10151,68,2,Female,11,"Front Seat, Left Side",8:00-8:59,0,0,4,1,1,0,0
+0,10468,69,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10175,69,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10292,69,1,Male,11,"Front Seat, Left Side",19:00-19:59,0,0,4,2,0,0,1
+0,10307,69,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,2,0,0,0,0
+0,10057,69,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10516,69,2,Female,11,"Front Seat, Left Side",20:00-20:59,0,9,4,1,0,0,0
+0,10227,70,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,1,0,0,1,0
+0,10251,70,1,Male,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10543,70,1,Male,11,"Front Seat, Left Side",10:00-10:59,0,0,4,1,0,0,0
+0,10148,70,2,Female,11,"Front Seat, Left Side",Not Applicable (Non-fatal),0,0,3,0,0,0,0
+0,10279,70,2,Female,11,"Front Seat, Left Side",7:00-7:59,9,9,4,2,0,0,0

@@ -1,0 +1,748 @@
+,Day,Month,Drunk,Damage Level,Death,Car Make,Car Make Type,Sex,Weather,Light_Type
+0,1,1,9,1,0,Chevrolet,Chevrolet Malibu/Malibu Maxx,1,Clear,Dark - Lighted
+1,2,1,9,12,1,Toyota,Toyota Tacoma,1,Rain,Daylight
+2,2,1,9,12,1,Toyota,Toyota Prius *,2,Clear,Daylight
+3,3,1,0,1,1,Toyota,Toyota Corolla,2,Clear,Dark - Not Lighted
+4,3,1,0,7,0,Chevrolet,"Chevrolet Impala/Caprice (For SS from 2014 on, use 20-021.)",1,Cloudy,Dark - Lighted
+5,4,1,9,6,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dawn
+6,4,1,0,1,1,Pontiac,Pontiac Grand AM,1,Clear,Daylight
+7,6,1,9,1,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dark - Lighted
+8,8,1,0,12,1,Chevrolet,"Chevrolet TrailBlazer (2003 on; for 2002 model, see 401)",2,Cloudy,Daylight
+9,8,1,1,12,0,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Daylight
+10,8,1,9,1,1,Dodge,Dodge Caravan/Grand Caravan,1,Clear,Daylight
+11,9,1,0,12,1,Mazda,Mazda Pickup/ B-Series Pickup,1,Clear,Daylight
+12,8,1,8,12,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,2,Clear,Dark - Not Lighted
+13,10,1,0,12,1,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,2,Cloudy,Daylight
+14,10,1,0,9,1,Mercury,Mercury Sable,1,Cloudy,Dark - Not Lighted
+15,10,1,0,1,1,Toyota,Toyota Tacoma,1,Rain,Daylight
+16,10,1,9,9,1,Hyundai,Hyundai Genesis (For 2017 on. See Models 55-043 and 55-044),1,Rain,Dark - Not Lighted
+17,11,1,1,10,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Rain,Dark - Lighted
+18,11,1,0,12,0,Ford,Ford Ranger,1,Clear,Dark - Not Lighted
+19,2,1,0,12,1,Ford,Ford Mustang/Mustang II,1,Rain,Daylight
+20,3,1,0,2,1,Ford,Ford Mustang/Mustang II,1,Clear,Daylight
+21,7,1,9,12,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dark - Not Lighted
+22,8,1,0,2,1,Chevrolet,Chevrolet Cavalier,1,Clear,Dark - Lighted
+23,9,1,9,11,1,Chevrolet,Chevrolet Lumina,2,Cloudy,Daylight
+24,9,1,1,1,0,Toyota,Toyota Tacoma,1,Cloudy,Dark - Not Lighted
+25,10,1,0,1,1,Datsun/Nissan,Datsun/Nissan Altima,2,"Fog, Smog, Smoke",Daylight
+26,11,1,0,4,0,Dodge,Dodge Challenger (2008 on; for 1970-74 see model 005),1,Rain,Dark - Not Lighted
+27,13,1,1,12,1,Chevrolet,"Chevrolet TrailBlazer (2003 on; for 2002 model, see 401)",1,Rain,Daylight
+28,14,1,8,9,1,Chevrolet,Chevrolet Cavalier,2,Clear,Daylight
+29,15,1,1,10,1,GMC,"GMC C, K, R, V-series pickup/     Sierra",1,Clear,Dark - Not Lighted
+30,15,1,0,12,1,Ford,Ford F-Series pickup,1,Clear,Dark - Not Lighted
+31,17,1,0,12,1,Datsun/Nissan,Datsun/Nissan Pathfinder,1,Clear,Dark - Not Lighted
+32,18,1,0,10,1,Datsun/Nissan,Datsun/Nissan Altima,1,Clear,Daylight
+33,18,1,1,5,1,Honda,Honda Accord,1,Clear,Dark - Not Lighted
+34,19,1,0,1,1,Toyota,Toyota Corolla,2,Clear,Daylight
+35,20,1,0,1,1,Pontiac,Pontiac Grand AM,2,Clear,Dark - Not Lighted
+36,20,1,0,12,0,Dodge,Dodge Dakota,1,Clear,Daylight
+37,25,1,0,12,1,GMC,"GMC C, K, R, V-series pickup/     Sierra",1,Clear,Daylight
+38,26,1,0,12,0,Honda,Honda Accord,1,Clear,Dark - Not Lighted
+39,28,1,0,6,2,Dodge,Dodge Dakota,1,Freezing Rain or Drizzle,Dawn
+40,28,1,0,10,3,GMC,"GMC C, K, R, V-series pickup/     Sierra",1,Snow,Daylight
+41,29,1,9,12,1,Jeep / Kaiser-Jeep / Willys- Jeep,Jeep / Kaiser-Jeep / Willys- Jeep Liberty,2,Clear,Daylight
+42,30,1,0,1,1,Chevrolet,Chevrolet HHR,2,Clear,Daylight
+43,30,1,0,10,1,KIA,KIA Sorrento,2,Clear,Daylight
+44,30,1,0,7,1,KIA,KIA Spectra/Spectra5,1,Cloudy,Dark - Not Lighted
+45,30,1,0,12,1,Toyota,Toyota T-100,1,Clear,Daylight
+46,30,1,1,12,1,Jeep / Kaiser-Jeep / Willys- Jeep,Jeep / Kaiser-Jeep / Willys- Jeep XYZ_Cherokee (1984-on) (For Grand Cherokee for 2014 on use 02-422.),1,Cloudy,Dark - Not Lighted
+47,30,1,1,12,1,Hyundai,Hyundai Sonata,2,Clear,Dark - Unknown Lighting
+48,31,1,0,2,2,Chevrolet,Chevrolet Colorado,1,Clear,Daylight
+49,9,1,9,9,1,KIA,KIA Optima,1,Rain,Dark - Not Lighted
+50,14,1,0,12,0,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Cloudy,Daylight
+51,23,1,0,12,1,KIA,KIA Forte,2,Clear,Daylight
+52,17,1,1,12,0,Datsun/Nissan,Datsun/Nissan Titan (from 2004-06; see 481 for 2007 on),1,Clear,Daylight
+53,17,1,9,12,1,Mitsubishi,Mitsubishi Eclipse,1,Clear,Daylight
+54,26,1,0,3,1,Ford,Ford Fusion,1,Cloudy,Dark - Not Lighted
+55,27,1,0,6,0,Datsun/Nissan,Datsun/Nissan Pathfinder,1,Clear,Daylight
+56,28,1,0,1,1,Datsun/Nissan,Datsun/Nissan Altima,2,Snow,Daylight
+57,31,1,9,2,1,Suzuki,Suzuki 450-749cc,1,Clear,Daylight
+58,25,1,0,12,0,Ford,Ford F-Series pickup,1,Clear,Dark - Not Lighted
+59,1,2,9,12,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Daylight
+60,1,2,0,12,1,Honda,Honda 750 cc or greater,1,Clear,Dark - Not Lighted
+61,1,2,0,13,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,1,Cloudy,Daylight
+62,1,2,9,10,1,Datsun/Nissan,Datsun/Nissan Altima,1,"Fog, Smog, Smoke",Dark - Not Lighted
+63,3,2,1,12,1,Chevrolet,Chevrolet S-10/T-10 Pickup,1,Clear,Daylight
+64,2,2,1,12,1,Dodge,Dodge Ram Pickup,1,Rain,Dark - Lighted
+65,3,2,0,12,0,Buick / Opel,Buick / Opel LaCrosse,2,Clear,Daylight
+66,3,2,0,12,0,Ford,Ford E-Series Van/Econoline,1,Cloudy,Daylight
+67,4,2,0,12,2,Ford,Ford Mustang/Mustang II,1,Cloudy,Daylight
+68,4,2,0,15,0,Other Make,Other Make Other (medium/heavy truck)**,1,Cloudy,Daylight
+69,4,2,0,12,0,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Cloudy,Dark - Lighted
+70,4,2,0,12,1,Saturn,Saturn Ion,2,Cloudy,Daylight
+71,5,2,0,11,0,Dodge,Dodge Durango (1998-2003 only; see model 422 for 2004 on),1,Cloudy,Dark - Lighted
+72,5,2,9,12,1,Scion,Scion FR-S,1,Other,Dark - Lighted
+73,5,2,1,99,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,1,Cloudy,Daylight
+74,8,2,0,14,1,Oldsmobile,Oldsmobile Cutlass (FWD),1,Clear,Dark - Not Lighted
+75,8,2,0,9,1,GMC,GMC S15/T15/Sonoma,2,Clear,Daylight
+76,8,2,1,7,1,Datsun/Nissan,Datsun/Nissan Altima,1,Clear,Dark - Not Lighted
+77,9,2,1,1,1,Ford,Ford F-Series pickup,1,Clear,Daylight
+78,9,2,8,6,2,Ford,Ford Crown Victoria,2,Clear,Dark - Not Lighted
+79,13,2,0,1,0,Datsun/Nissan,Datsun/Nissan Versa,1,Clear,Dusk
+80,13,2,0,3,1,Toyota,Toyota Corolla,1,Cloudy,Dark - Not Lighted
+81,13,2,1,3,1,KIA,KIA Sorrento,1,Clear,Dark - Not Lighted
+82,15,2,9,12,1,Lexus,Lexus IS-250/300/350/500,1,Clear,Daylight
+83,17,2,1,6,1,Chevrolet,Chevrolet Cobalt,1,Rain,Dark - Not Lighted
+84,18,2,0,1,0,Chevrolet,Chevrolet Malibu/Malibu Maxx,1,Clear,Daylight
+85,19,2,1,12,1,Toyota,Toyota Corolla,1,Cloudy,Dark - Not Lighted
+86,21,2,1,12,1,Toyota,Toyota Camry,2,Rain,Dark - Lighted
+87,1,2,0,1,0,Dodge,Dodge Ram Pickup,1,Clear,Daylight
+88,5,2,0,1,1,Chevrolet,"Chevrolet S-10 Blazer/TrailBlazer (2002 only; for 2003 on, see 403)",2,Cloudy,Daylight
+89,11,2,0,10,0,Infiniti,Infiniti G25/G35/G37,1,Rain,Dark - Lighted
+90,16,2,9,14,1,Volvo,Volvo 60 Series,1,Clear,Daylight
+91,23,2,9,9,1,Datsun/Nissan,Datsun/Nissan Datsun/Nissan Pickup 1955-1997),1,Rain,Dark - Lighted
+92,3,1,9,12,1,Ford,Ford F-Series pickup,1,Cloudy,Dark - Not Lighted
+93,8,2,0,12,0,Datsun/Nissan,Datsun/Nissan Versa,2,Clear,Dark - Not Lighted
+94,13,2,9,11,1,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,1,Clear,Dark - Not Lighted
+95,15,2,1,12,2,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dark - Not Lighted
+96,17,2,9,13,1,Hyundai,Hyundai Genesis (For 2017 on. See Models 55-043 and 55-044),2,Clear,Dark - Not Lighted
+97,17,2,0,12,0,Chevrolet,Chevrolet Malibu/Malibu Maxx,1,Cloudy,Dark - Lighted
+98,20,2,9,3,1,Ford,Ford F-Series pickup,2,Cloudy,Daylight
+99,21,2,1,10,1,Acura,Acura TSX,1,Clear,Dusk
+100,21,2,9,3,1,Honda,Honda Accord,1,Clear,Dark - Lighted
+101,22,2,9,12,1,Saturn,Saturn Vue,2,Clear,Daylight
+102,23,2,9,2,1,Jeep / Kaiser-Jeep / Willys- Jeep,Jeep / Kaiser-Jeep / Willys- Jeep Liberty,2,Cloudy,Daylight
+103,23,2,0,9,1,Chrysler,Chrysler Sebring,2,Clear,Dark - Not Lighted
+104,23,2,1,3,3,Dodge,Dodge Dakota,1,Rain,Dark - Not Lighted
+105,25,2,1,12,2,Honda,Honda Accord,1,Rain,Dark - Lighted
+106,25,2,0,1,1,Toyota,Toyota Tundra,1,Clear,Daylight
+107,21,2,1,6,1,Chrysler,Chrysler Concorde,1,Clear,Dark - Lighted
+108,23,2,0,2,0,Toyota,Toyota 4-Runner,1,Clear,Daylight
+109,24,2,0,10,1,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,1,Clear,Daylight
+110,28,2,9,1,1,Ford,Ford Escape,2,Clear,Daylight
+111,26,2,1,12,1,Ford,Ford Expedition,1,Clear,Dark - Lighted
+112,28,2,9,12,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Daylight
+113,1,3,1,12,1,Chevrolet,Chevrolet G-series van,1,Clear,Daylight
+114,4,3,0,12,1,KIA,KIA Amanti,2,Cloudy,Daylight
+115,2,3,9,13,1,Honda,Honda Accord,1,Cloudy,Dark - Not Lighted
+116,3,3,0,12,1,Toyota,Toyota Sequoia,2,Cloudy,Daylight
+117,3,3,1,11,1,Ford,Ford Escape,1,Cloudy,Dark - Not Lighted
+118,4,3,9,12,1,Ford,Ford F-Series pickup,1,Cloudy,Dark - Lighted
+119,4,3,0,15,0,Other Make,"Other Make Bus: Front engine, Flat front",1,Clear,Daylight
+120,5,3,0,12,1,Mazda,Mazda Pickup/ B-Series Pickup,1,Clear,Daylight
+121,5,3,0,12,0,Datsun/Nissan,Datsun/Nissan Quest,1,Cloudy,Dark - Not Lighted
+122,8,3,9,12,1,Isuzu,Isuzu P'up (pickup),1,Clear,Dark - Not Lighted
+123,8,3,9,6,1,Mazda,Mazda 323/GLC/ Protégé/ Protégé5,1,Clear,Daylight
+124,10,3,9,2,1,Buick / Opel,"Buick / Opel Electra/Electra 225/ Park Limited, Park Avenue, Ultra, Base",2,Clear,Dark - Not Lighted
+125,11,3,0,12,1,Toyota,Toyota Prius *,1,Clear,Daylight
+126,5,2,9,9,1,Chevrolet,"Chevrolet Impala/Caprice (For SS from 2014 on, use 20-021.)",2,Clear,Dark - Not Lighted
+127,10,3,9,12,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Cloudy,Dark - Not Lighted
+128,24,3,9,10,1,Oldsmobile,Oldsmobile Cutlass (FWD),1,Clear,Dark - Not Lighted
+129,1,3,1,12,1,Ford,Ford F-Series pickup,1,Rain,Dark - Not Lighted
+130,8,3,0,12,1,Dodge,Dodge Dakota,1,Clear,Dark - Not Lighted
+131,13,3,0,1,0,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,1,Clear,Daylight
+132,13,3,0,12,1,Dodge,Dodge Dakota,1,Clear,Dark - Not Lighted
+133,14,3,0,3,0,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Daylight
+134,14,3,1,1,1,Jeep / Kaiser-Jeep / Willys- Jeep,Jeep / Kaiser-Jeep / Willys- Jeep XYZ_Cherokee (1984-on) (For Grand Cherokee for 2014 on use 02-422.),1,Cloudy,Daylight
+135,14,3,9,11,2,Honda,Honda Accord,1,Clear,Daylight
+136,14,3,0,2,1,Chrysler,Chrysler 300M/300/300C/300S,1,Clear,Daylight
+137,16,3,0,12,1,Pontiac,Pontiac Sunbird (1985-1994)/J-2000/Sunfire (1995 on),2,Rain,Dark - Not Lighted
+138,17,3,9,3,1,Datsun/Nissan,Datsun/Nissan Altima,2,Cloudy,Daylight
+139,17,3,0,8,1,Mitsubishi,Mitsubishi Eclipse,2,Cloudy,Daylight
+140,17,3,0,3,1,Lexus,Lexus ES-250/300/300h/330/ 350,1,Rain,Daylight
+141,17,3,0,12,1,Chevrolet,Chevrolet Malibu/Malibu Maxx,1,Rain,Dark - Not Lighted
+142,20,3,0,12,1,Honda,Honda Unknown cc,1,Clear,Dark - Not Lighted
+143,21,3,0,12,1,Datsun/Nissan,Datsun/Nissan 810/Maxima,2,Clear,Daylight
+144,21,3,9,11,1,Ford,Ford F-Series pickup,1,Clear,Daylight
+145,22,3,1,3,1,Chevrolet,Chevrolet Camaro,1,Clear,Dark - Not Lighted
+146,22,3,0,1,0,Acura,Acura TL,2,Clear,Dark - Lighted
+147,25,3,9,1,0,Honda,Honda CR-V,2,Clear,Daylight
+148,25,3,0,8,1,Chrysler,Chrysler PT Cruiser,2,Clear,Dark - Not Lighted
+149,1,2,0,12,1,Ford,Ford Ranger,1,Cloudy,Dark - Not Lighted
+150,22,3,1,99,1,Oldsmobile,Oldsmobile Ciera,1,Clear,Daylight
+151,22,3,9,7,2,Acura,Acura Integra,1,Clear,Dark - Not Lighted
+152,22,3,9,12,1,GMC,"GMC C, K, R, V-series pickup/     Sierra",1,Clear,Dark - Not Lighted
+153,22,3,1,1,1,Other Make,Other Make Unknown cc (ATV),1,Clear,Dark - Not Lighted
+154,30,3,1,1,1,Honda,"Honda Civic/CRX, del Sol",1,Clear,Daylight
+155,31,3,9,12,1,Harley-Davidson,Harley-Davidson 750cc or greater,1,Clear,Daylight
+156,31,3,1,12,0,Chrysler,Chrysler PT Cruiser,1,Clear,Dark - Not Lighted
+157,2,4,1,10,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,1,Clear,Daylight
+158,1,4,9,1,1,Datsun/Nissan,Datsun/Nissan Altima,1,Clear,Daylight
+159,3,2,0,12,1,Oldsmobile,Oldsmobile Cutlass (FWD),1,Clear,Daylight
+160,21,3,1,1,0,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dark - Lighted
+161,22,3,9,1,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dark - Not Lighted
+162,22,3,1,6,1,Chevrolet,Chevrolet Malibu/Malibu Maxx,1,Clear,Dark - Not Lighted
+163,23,3,0,12,0,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,1,Clear,Dark - Lighted
+164,26,3,1,7,1,Ford,Ford Ranger,2,Clear,Dark - Lighted
+165,26,3,1,7,1,Datsun/Nissan,Datsun/Nissan Altima,1,Clear,Dark - Not Lighted
+166,27,3,1,12,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dusk
+167,28,3,9,1,1,Chevrolet,"Chevrolet TrailBlazer (2003 on; for 2002 model, see 401)",1,Cloudy,Dark - Not Lighted
+168,30,3,0,1,1,Datsun/Nissan,Datsun/Nissan Other (light truck),2,Cloudy,Dark - Not Lighted
+169,30,3,1,12,1,Jeep / Kaiser-Jeep / Willys- Jeep,Jeep / Kaiser-Jeep / Willys- Jeep XYZ_Cherokee (1984-on) (For Grand Cherokee for 2014 on use 02-422.),1,Clear,Daylight
+170,30,3,0,7,1,Buick / Opel,"Buick / Opel LeSabre/Centurion/ Estate Wagon, Invicta, Custom, Limited, T-Type, Ltd, C.M.I, LE",1,Clear,Dark - Not Lighted
+171,30,3,9,3,1,Oldsmobile,Oldsmobile Cutlass (FWD),1,Clear,Daylight
+172,31,3,1,12,1,Volkswagen,Volkswagen Jetta/Jetta SportsWagen,1,Clear,Dark - Not Lighted
+173,7,4,9,3,1,Mazda,Mazda Mazda6,2,Unknown,Unknown
+174,3,4,9,12,1,BMW,BMW 1-Series,1,Clear,Dark - Lighted
+175,4,4,9,3,1,Honda,Honda Accord,2,Clear,Dawn
+176,4,4,0,1,1,Chevrolet,Chevrolet Aveo/Aveo 5,2,Rain,Daylight
+177,5,4,0,12,1,GMC,GMC Fullsize Jimmy/Yukon,1,Clear,Daylight
+178,9,3,0,12,1,Harley-Davidson,Harley-Davidson 750cc or greater,1,Clear,Daylight
+179,29,3,1,1,0,Ford,Ford F-Series pickup,1,Clear,Dark - Lighted
+180,4,4,9,8,1,Ford,Ford Mustang/Mustang II,1,Cloudy,Daylight
+181,12,4,0,8,1,Chevrolet,Chevrolet Traverse (2009-2012 only.  For 2013 on see model 423.),1,Clear,Daylight
+182,15,4,0,12,1,Dodge,Dodge Ram Pickup,1,Clear,Daylight
+183,17,4,9,12,2,KIA,KIA Optima,2,Clear,Daylight
+184,18,4,0,1,0,Chevrolet,Chevrolet G-series van,1,Rain,Dark - Lighted
+185,13,4,1,12,1,Ford,Ford Mustang/Mustang II,2,Clear,Dark - Not Lighted
+186,4,4,9,12,1,Chrysler,Chrysler PT Cruiser,2,Cloudy,Dark - Not Lighted
+187,4,4,0,12,1,GMC,"GMC C, K, R, V-series pickup/     Sierra",1,Clear,Dark - Not Lighted
+188,4,4,9,12,1,Datsun/Nissan,Datsun/Nissan Altima,1,Clear,Daylight
+189,5,4,1,11,1,Infiniti,Infiniti G25/G35/G37,1,Clear,Dark - Not Lighted
+190,6,4,9,12,1,Ford,Ford Expedition,1,Cloudy,Daylight
+191,8,4,9,12,2,Jeep / Kaiser-Jeep / Willys- Jeep,Jeep / Kaiser-Jeep / Willys- Jeep XYZ_Cherokee (1984-on) (For Grand Cherokee for 2014 on use 02-422.),2,Clear,Dark - Not Lighted
+192,8,4,0,1,1,Peterbilt,Peterbilt Medium/Heavy – COE entry position unknown,1,Clear,Dark - Not Lighted
+193,9,4,8,6,0,Datsun/Nissan,Datsun/Nissan 810/Maxima,2,Clear,Dark - Lighted
+194,10,4,0,12,1,Harley-Davidson,Harley-Davidson 750cc or greater,1,Clear,Daylight
+195,12,4,9,12,1,Yamaha,Yamaha Unknown cc,1,Cloudy,Dark - Not Lighted
+196,12,4,9,12,1,Honda,Honda Accord,1,Clear,Dark - Not Lighted
+197,13,4,1,9,1,Honda,Honda Accord,2,Clear,Dark - Lighted
+198,13,4,0,7,0,Mercury,Mercury Marquis/Monterey (car version; for van version 2004 on see code 444) /Grand Marquis,1,Cloudy,Daylight
+199,16,4,1,12,1,Ford,Ford F-Series pickup,1,Clear,Dark - Not Lighted
+200,17,4,1,12,1,Audi,Audi A7,1,Clear,Dark - Lighted
+201,19,4,0,12,1,Chevrolet,Chevrolet Cavalier,1,Rain,Dark - Not Lighted
+202,8,4,0,12,0,Ford,"Ford Medium/Heavy Pickup (pickup-style only - over 10,000 lbs)",1,Clear,Daylight
+203,12,4,8,1,1,Ford,Ford Taurus/Taurus X,1,Clear,Dark - Not Lighted
+204,12,4,1,9,1,Other Make,Other Make Unknown cc (ATV),1,Clear,Dark - Not Lighted
+205,18,4,0,9,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Rain,Daylight
+206,18,4,8,13,1,Datsun/Nissan,Datsun/Nissan Sentra,1,Cloudy,Daylight
+207,19,4,0,10,1,Harley-Davidson,Harley-Davidson 750cc or greater,2,Clear,Daylight
+208,21,4,0,1,1,Ford,Ford Ranger,1,Clear,Daylight
+209,17,2,0,12,0,Chevrolet,Chevrolet S-10/T-10 Pickup,1,Cloudy,Daylight
+210,11,4,9,12,0,Mitsubishi,Mitsubishi Galant,1,Cloudy,Daylight
+211,16,4,0,3,1,Lincoln,Lincoln Continental (thru '81)/ Town Car,2,Clear,Daylight
+212,19,4,0,12,1,Honda,Honda Unknown cc,1,Clear,Daylight
+213,22,4,0,9,1,Lincoln,Lincoln Continental (thru '81)/ Town Car,2,Cloudy,Daylight
+214,24,4,0,1,1,Pontiac,Pontiac G6,2,Clear,Daylight
+215,26,4,9,3,1,Lincoln,Lincoln LS,1,Clear,Daylight
+216,14,4,0,1,0,Dodge,Dodge Ram Pickup,1,Cloudy,Daylight
+217,16,4,9,12,1,Datsun/Nissan,Datsun/Nissan 350Z/370Z,1,Clear,Dark - Not Lighted
+218,18,4,0,4,1,Ford,Ford Crown Victoria,1,Rain,Daylight
+219,18,4,9,3,1,Toyota,Toyota FJ Cruiser,1,Cloudy,Dark - Not Lighted
+220,19,4,0,12,0,Ford,Ford Expedition,2,Clear,Dark - Not Lighted
+221,22,4,1,12,1,Mazda,Mazda 626,1,Cloudy,Daylight
+222,22,4,9,7,1,Toyota,Toyota Tacoma,1,Clear,Dark - Lighted
+223,26,4,9,12,1,Toyota,Toyota Pickup,1,Cloudy,Dark - Not Lighted
+224,26,4,0,1,1,AM General,AM General Hummer (2004 on; see model 421 for 1993-2003),2,Clear,Daylight
+225,25,4,0,1,0,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,2,Clear,Dark - Not Lighted
+226,3,3,9,11,3,Toyota,Toyota Camry,1,Clear,Daylight
+227,20,3,1,15,1,Yamaha,Yamaha Unknown cc (ATV),1,Clear,Daylight
+228,15,4,0,5,1,GMC,"GMC C, K, R, V-series pickup/     Sierra",1,Rain,Daylight
+229,15,4,0,1,1,Dodge,Dodge Durango (2004 on; see 402 for 1998-2003 models),2,Rain,Daylight
+230,26,4,0,7,1,Ford,Ford Focus,2,Clear,Daylight
+231,26,4,1,10,1,GMC,"GMC C, K, R, V-series pickup/     Sierra",1,Clear,Dark - Not Lighted
+232,25,4,9,10,1,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,2,Clear,Daylight
+233,27,4,1,12,1,Chevrolet,Chevrolet Equinox,2,"Fog, Smog, Smoke",Dark - Not Lighted
+234,27,4,0,12,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,1,Cloudy,Unknown
+235,28,4,0,12,0,Ford,Ford F-Series pickup,2,Cloudy,Daylight
+236,23,4,0,12,0,BMW,BMW 3-series,1,Clear,Daylight
+237,3,5,0,12,1,Lincoln,Lincoln Continental ('82 on),1,Clear,Dark - Not Lighted
+238,3,5,0,12,1,Yamaha,Yamaha Unknown cc,1,Clear,Dark - Not Lighted
+239,5,5,1,99,1,Victory,Victory 750cc or greater,1,Clear,Dark - Not Lighted
+240,6,5,1,3,1,Ford,Ford Ranger,1,Cloudy,Dark - Not Lighted
+241,4,5,0,7,0,Cadillac,Cadillac CTS/CTC,1,Clear,Dark - Not Lighted
+242,1,5,9,3,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dark - Lighted
+243,1,5,9,10,1,Pontiac,Pontiac Grand Prix (FWD),1,Clear,Daylight
+244,3,5,9,12,1,Other Make,Other Make Unknown cc,1,Cloudy,Dark - Not Lighted
+245,12,5,9,1,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Daylight
+246,9,5,1,12,1,Kawasaki,Kawasaki Unknown cc,1,Cloudy,Daylight
+247,10,5,0,15,0,Pontiac,Pontiac Grand AM,1,Clear,Dark - Lighted
+248,12,5,0,1,1,GMC,GMC Fullsize Jimmy/Yukon,2,Clear,Daylight
+249,12,5,0,8,1,Acura,Acura Integra,2,Clear,Daylight
+250,25,4,1,12,0,Ford,Ford F-Series pickup,1,Clear,Daylight
+251,1,5,0,1,1,Chevrolet,"Chevrolet TrailBlazer (2003 on; for 2002 model, see 401)",1,Clear,Daylight
+252,15,5,0,1,1,Cadillac,"Cadillac Deville/Fleetwood,Coupe de Ville, Sedan de Ville, Fleetwood Brougham, Fleetwood 60 Special, d`Elegan",2,Cloudy,Daylight
+253,29,4,1,1,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Rain,Dark - Lighted
+254,2,5,0,10,0,Oldsmobile,Oldsmobile Delta 88/LSS,1,Clear,Dark - Not Lighted
+255,3,5,1,12,0,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,2,Clear,Daylight
+256,3,5,9,3,2,Pontiac,Pontiac Grand AM,2,Cloudy,Daylight
+257,3,5,0,9,2,Chrysler,Chrysler LeBaron,1,Clear,Daylight
+258,4,5,9,9,1,Harley-Davidson,Harley-Davidson 750cc or greater,1,Clear,Daylight
+259,7,5,0,12,1,Saturn,Saturn SL,2,Clear,Daylight
+260,7,5,1,13,1,Honda,Honda Unknown cc (ATV),1,Clear,Daylight
+261,7,5,9,12,0,BMW,BMW 3-series,2,Clear,Daylight
+262,8,5,0,12,1,Kawasaki,Kawasaki Unknown cc,1,Clear,Dusk
+263,12,5,1,12,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dark - Not Lighted
+264,12,5,0,12,1,Toyota,Toyota Camry,1,Clear,Daylight
+265,13,5,0,1,0,Buick / Opel,Buick / Opel Rendezvous,2,Clear,Daylight
+266,13,5,1,1,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dark - Not Lighted
+267,16,5,0,2,1,Chevrolet,"Chevrolet TrailBlazer (2003 on; for 2002 model, see 401)",1,Clear,Daylight
+268,19,5,0,10,1,Honda,Honda Unknown cc,2,Clear,Daylight
+269,2,5,0,1,0,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,1,Cloudy,Dark - Lighted
+270,7,5,1,12,1,Mazda,Mazda MX-6,1,Clear,Daylight
+271,9,5,0,1,0,GMC,GMC Fullsize Jimmy/Yukon,1,Cloudy,Daylight
+272,16,5,0,11,1,Chevrolet,Chevrolet Avalanche,2,Clear,Daylight
+273,17,5,0,9,0,Other Import,Other Import Mini-Cooper,2,Clear,Daylight
+274,18,5,1,1,1,Datsun/Nissan,Datsun/Nissan Altima,1,Clear,Dark - Not Lighted
+275,18,5,9,12,1,Honda,Honda Accord,1,Clear,Dark - Not Lighted
+276,19,5,0,7,1,Chevrolet,"Chevrolet Impala/Caprice (For SS from 2014 on, use 20-021.)",1,Clear,Dark - Not Lighted
+277,20,5,8,1,1,Toyota,Toyota Camry,2,Clear,Daylight
+278,20,5,,5,0,Buick / Opel,Buick / Opel Century,,Clear,Dark - Lighted
+279,21,5,0,1,1,Jeep / Kaiser-Jeep / Willys- Jeep,Jeep / Kaiser-Jeep / Willys- Jeep Grand Wagoneer,1,Clear,Dark - Not Lighted
+280,23,5,0,1,1,Pontiac,Pontiac Grand AM,1,Cloudy,Dark - Not Lighted
+281,24,5,1,12,1,Ford,Ford F-Series pickup,1,Clear,Dark - Not Lighted
+282,20,5,9,3,2,Dodge,Dodge Dakota,1,Clear,Daylight
+283,7,5,0,15,0,Lincoln,Lincoln Navigator,1,Clear,Dark - Unknown Lighting
+284,23,5,0,6,1,Toyota,Toyota Corolla,1,Clear,Dark - Not Lighted
+285,26,1,1,1,1,Datsun/Nissan,Datsun/Nissan Altima,1,Clear,Daylight
+286,7,6,0,9,1,Oldsmobile,Oldsmobile Achieva/Alero,2,Clear,Daylight
+287,7,6,9,7,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Cloudy,Dark - Not Lighted
+288,5,6,0,11,1,Ford,Ford Ranger,1,Clear,Dark - Not Lighted
+289,4,6,1,12,1,GMC,"GMC C, K, R, V-series pickup/     Sierra",1,Clear,Daylight
+290,4,6,9,1,1,Dodge,"Dodge Medium/Heavy Pickup (pickup-style only – over 10,000 lbs)",1,Cloudy,Daylight
+291,3,6,1,12,1,Chrysler,Chrysler 300M/300/300C/300S,2,Cloudy,Daylight
+292,30,5,0,13,1,Yamaha,Yamaha Unknown cc,1,Cloudy,Daylight
+293,2,6,0,12,0,Buick / Opel,"Buick / Opel LeSabre/Centurion/ Estate Wagon, Invicta, Custom, Limited, T-Type, Ltd, C.M.I, LE",1,Cloudy,Daylight
+294,2,6,0,1,1,Ford,Ford Medium/Heavy – Unknown engine location,1,Cloudy,Daylight
+295,1,6,9,12,1,Kawasaki,Kawasaki Unknown cc,1,Cloudy,Daylight
+296,1,6,1,1,1,Ford,Ford Focus,1,Cloudy,Dark - Not Lighted
+297,1,6,9,12,1,Datsun/Nissan,Datsun/Nissan Altima,2,Cloudy,Dark - Not Lighted
+298,31,5,0,2,1,Buick / Opel,"Buick / Opel LeSabre/Centurion/ Estate Wagon, Invicta, Custom, Limited, T-Type, Ltd, C.M.I, LE",1,Cloudy,Daylight
+299,29,5,0,3,1,Datsun/Nissan,Datsun/Nissan Frontier (1998 on),1,Cloudy,Daylight
+300,28,5,9,9,1,Dodge,Dodge Dakota,1,Rain,Dusk
+301,24,5,0,15,0,Other Make,Other Make Other (vehicle),1,Clear,Daylight
+302,23,5,9,12,1,Ford,Ford F-Series pickup,1,Clear,Dark - Not Lighted
+303,19,5,,6,0,Peterbilt,Peterbilt Medium/Heavy – Unknown engine location,,Clear,Daylight
+304,22,5,9,12,1,Freightliner,Freightliner Medium/Heavy – Unknown engine location,1,Clear,Daylight
+305,21,5,0,12,0,GMC,GMC Fullsize Jimmy/Yukon,1,Clear,Daylight
+306,18,5,9,1,1,Chevrolet,Chevrolet Monte Carlo (1995 on),1,Clear,Daylight
+307,12,5,0,1,1,Pontiac,Pontiac Grand Prix (FWD),2,Clear,Dark - Not Lighted
+308,2,5,9,12,1,Lincoln,Lincoln Continental (thru '81)/ Town Car,1,Clear,Daylight
+309,2,5,0,3,1,Kawasaki,Kawasaki Unknown cc,1,Clear,Daylight
+310,16,4,1,1,0,Dodge,Dodge Dakota,1,Clear,Daylight
+311,28,5,0,12,0,Other Import,Other Import Mini-Cooper,1,Clear,Dark - Not Lighted
+312,29,5,1,12,1,Lincoln,Lincoln Navigator,1,Clear,Daylight
+313,31,5,0,11,1,Chevrolet,Chevrolet Aveo/Aveo 5,1,Clear,Dark - Not Lighted
+314,3,6,9,1,1,Yamaha,Yamaha 750cc or greater,1,Clear,Unknown
+315,2,6,0,1,1,Freightliner,Freightliner Medium/Heavy – Unknown engine location,1,Clear,Dark - Not Lighted
+316,13,6,9,9,1,Isuzu,Isuzu Rodeo/ Rodeo Sport,1,Rain,Dark - Not Lighted
+317,12,6,9,9,1,Ford,Ford Ranger,2,Cloudy,Dark - Not Lighted
+318,13,6,9,1,1,Toyota,Toyota Camry,1,Clear,Dark - Lighted
+319,14,6,0,7,1,Honda,Honda Accord,2,Clear,Daylight
+320,14,6,0,11,0,Mercedes-Benz,Mercedes-Benz C Class (94 on),1,Clear,Dark - Not Lighted
+321,13,6,9,12,1,Chevrolet,Chevrolet Cobalt,1,Cloudy,Dark - Not Lighted
+322,13,6,9,1,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Daylight
+323,7,6,0,12,0,GMC,GMC Jimmy/Typhoon/Envoy,1,Rain,Dark - Lighted
+324,2,6,0,1,1,Kenworth,Kenworth Medium/Heavy – Unknown engine location,1,Cloudy,Daylight
+325,15,6,0,8,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,1,Clear,Daylight
+326,17,6,0,8,1,Chevrolet,Chevrolet Lumina,2,Clear,Daylight
+327,19,6,9,12,1,Ford,Ford F-Series pickup,1,Cloudy,Daylight
+328,7,6,9,12,1,Harley-Davidson,Harley-Davidson 750cc or greater,1,Cloudy,Dark - Not Lighted
+329,22,6,9,12,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,2,Clear,Daylight
+330,31,5,1,1,0,Ford,Ford F-Series pickup,1,Cloudy,Daylight
+331,5,6,1,12,1,Dodge,Dodge Neon,1,Cloudy,Dark - Not Lighted
+332,7,6,0,12,1,Suzuki,Suzuki 125-349cc,1,Clear,Dark - Lighted
+333,7,6,1,13,1,Ford,Ford Freestyle,1,Clear,Dark - Not Lighted
+334,8,6,1,10,1,Datsun/Nissan,Datsun/Nissan Altima,1,Clear,Daylight
+335,18,6,0,12,1,Ford,Ford F-Series pickup,1,Clear,Daylight
+336,20,6,9,3,1,Datsun/Nissan,Datsun/Nissan Pathfinder,1,Clear,Dusk
+337,21,6,1,11,1,Ford,Ford F-Series pickup,1,Clear,Dark - Not Lighted
+338,2,6,1,12,1,Yamaha,Yamaha Unknown cc,1,Clear,Dark - Not Lighted
+339,,,,,,,,,,
+340,21,6,0,3,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Cloudy,Dark - Lighted
+341,24,6,0,12,0,Pontiac,Pontiac Grand Prix (FWD),1,Cloudy,Dark - Not Lighted
+342,25,6,0,3,1,KIA,KIA Soul,2,Cloudy,Dusk
+343,12,6,9,12,1,Toyota,Toyota Solara,1,Clear,Dark - Not Lighted
+344,17,6,9,1,1,KIA,KIA Rio/Rio5,1,Clear,Dark - Not Lighted
+345,17,5,1,3,0,Dodge,"Dodge D, W-Series pickup",1,Clear,Dark - Lighted
+346,20,6,0,12,0,GMC,"GMC C, K, R, V-series pickup/     Sierra",1,Clear,Dark - Lighted
+347,20,6,9,12,1,Chevrolet,"Chevrolet S-10 Blazer/TrailBlazer (2002 only; for 2003 on, see 403)",1,Clear,Daylight
+348,18,6,0,1,0,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Cloudy,Daylight
+349,21,6,8,12,1,Volvo,"Volvo 70 Series (For XC70 for 2014 on, use model code 402)",2,Clear,Dark - Not Lighted
+350,24,6,9,8,1,Porsche,Porsche Panamera,1,Clear,Dark - Lighted
+351,28,6,0,1,0,Ford,Ford Escape,1,Cloudy,Dark - Not Lighted
+352,24,6,9,1,2,Ford,Ford Expedition,2,Cloudy,Daylight
+353,18,4,0,12,1,Toyota,Toyota Corolla,2,Clear,Daylight
+354,4,5,0,10,1,Buick / Opel,Buick / Opel Regal (2011 on),1,Clear,Daylight
+355,1,6,9,12,1,Mazda,Mazda 626,2,Cloudy,Daylight
+356,15,6,9,3,1,Buick / Opel,Buick / Opel Century,1,Clear,Dark - Not Lighted
+357,21,6,0,1,1,Yamaha,Yamaha Unknown cc,1,Clear,Daylight
+358,27,6,0,12,1,Other Make,Other Make Unknown cc,1,Clear,Daylight
+359,1,7,0,12,1,Harley-Davidson,Harley-Davidson 750cc or greater,1,Clear,Daylight
+360,27,6,9,1,1,Toyota,Toyota Highlander,1,Clear,Daylight
+361,25,6,0,4,1,Mercury,Mercury Sable,1,Clear,Dark - Not Lighted
+362,4,7,0,11,0,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Daylight
+363,5,7,9,9,1,Chevrolet,Chevrolet Lumina,1,Clear,Daylight
+364,5,7,9,12,1,Other Make,Other Make Unknown cc,1,Clear,Daylight
+365,28,6,1,1,1,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,1,Clear,Dark - Not Lighted
+366,1,7,0,13,1,Buick / Opel,"Buick / Opel LeSabre/Centurion/ Estate Wagon, Invicta, Custom, Limited, T-Type, Ltd, C.M.I, LE",1,Clear,Daylight
+367,2,7,0,12,0,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Daylight
+368,5,7,1,5,1,Honda,Honda Odyssey,2,Clear,Dawn
+369,6,7,0,1,0,GMC,"GMC C, K, R, V-series pickup/     Sierra",1,Clear,Dark - Not Lighted
+370,12,7,9,13,1,Ford,Ford Focus,1,Clear,Dark - Not Lighted
+371,12,7,9,12,1,Chevrolet,Chevrolet S-10/T-10 Pickup,2,Clear,Dark - Lighted
+372,11,7,0,1,1,KIA,KIA Sedona,1,Clear,Daylight
+373,3,7,0,11,0,Honda,Honda Accord,1,Clear,Daylight
+374,8,7,,6,0,Chevrolet,Chevrolet G-series van,,Clear,Daylight
+375,7,7,9,12,0,Ford,Ford F-Series pickup,1,Cloudy,Dark - Lighted
+376,6,7,9,10,1,Honda,Honda Accord,2,Clear,Dark - Not Lighted
+377,5,7,0,12,1,Yamaha,Yamaha Unknown cc,1,Clear,Dark - Not Lighted
+378,7,7,0,1,1,Honda,Honda Pilot,2,Clear,Daylight
+379,3,6,0,12,0,Ford,Ford Ranger,1,Clear,Daylight
+380,16,5,9,9,2,Harley-Davidson,Harley-Davidson 750cc or greater,1,Clear,Daylight
+381,6,7,9,99,1,Suzuki,Suzuki Unknown cc,1,Clear,Dark - Not Lighted
+382,6,7,9,12,1,Mercedes-Benz,Mercedes-Benz M/ML Class,1,Clear,Daylight
+383,6,7,0,1,0,Honda,Honda CR-V,2,Clear,Dark - Lighted
+384,3,7,9,11,0,Ford,Ford Edge,1,Clear,Dark - Lighted
+385,11,7,0,4,1,Cadillac,Cadillac SRX,1,Clear,Daylight
+386,14,7,0,8,1,Other Make,Other Make Unknown cc (ATV),1,Clear,Dusk
+387,15,7,0,15,1,Other Make,Other Make Unknown cc (ATV),1,Cloudy,Dark - Not Lighted
+388,16,7,0,12,0,BMW,BMW 3-series,2,Cloudy,Dark - Not Lighted
+389,19,7,0,12,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Daylight
+390,24,6,9,13,1,Datsun/Nissan,Datsun/Nissan Sentra,2,Clear,Dark - Not Lighted
+391,16,7,9,12,1,Saturn,Saturn Ion,2,Clear,Daylight
+392,5,7,9,12,1,Chevrolet,"Chevrolet TrailBlazer (2003 on; for 2002 model, see 401)",1,Clear,Dark - Not Lighted
+393,21,7,9,10,1,Datsun/Nissan,Datsun/Nissan Sentra,2,Clear,Daylight
+394,25,7,,11,0,GMC,"GMC C, K, R, V-series pickup/     Sierra",,Clear,Dark - Not Lighted
+395,24,7,1,7,1,Lincoln,Lincoln LS,1,Clear,Dark - Lighted
+396,20,7,9,12,1,Ford,Ford Taurus/Taurus X,1,Cloudy,Dark - Not Lighted
+397,17,7,0,1,0,Chevrolet,Chevrolet G-series van,1,Clear,Daylight
+398,22,7,0,1,1,Ford,Ford Ranger,1,Cloudy,Daylight
+399,27,7,0,9,1,Datsun/Nissan,Datsun/Nissan 810/Maxima,2,Clear,Daylight
+400,25,7,9,12,2,Chrysler,Chrysler 200,2,Clear,Daylight
+401,30,7,0,9,1,International Harvester/Navistar,International Harvester/Navistar Medium/Heavy – Unknown engine location,1,Clear,Daylight
+402,24,7,0,11,1,Dodge,Dodge Ram Pickup,2,Cloudy,Daylight
+403,25,7,0,1,0,Datsun/Nissan,Datsun/Nissan Pathfinder,2,Clear,Dark - Lighted
+404,26,7,9,12,1,Buick / Opel,"Buick / Opel LeSabre/Centurion/ Estate Wagon, Invicta, Custom, Limited, T-Type, Ltd, C.M.I, LE",1,Clear,Dark - Not Lighted
+405,27,7,0,12,1,Honda,Honda Pilot,2,Clear,Dark - Not Lighted
+406,26,7,9,13,1,Jeep / Kaiser-Jeep / Willys- Jeep,Jeep / Kaiser-Jeep / Willys- Jeep XYZ_Cherokee (1984-on) (For Grand Cherokee for 2014 on use 02-422.),2,Clear,Daylight
+407,9,7,0,2,2,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,1,Clear,Daylight
+408,30,7,0,13,1,Toyota,Toyota 4-Runner,1,Clear,Dark - Not Lighted
+409,20,7,1,1,1,Mercedes-Benz,Mercedes-Benz CLA Class,1,Clear,Daylight
+410,4,7,0,6,0,Toyota,Toyota Camry,2,Clear,Dark - Not Lighted
+411,16,7,0,12,0,Other Make,Other Make Unknown cc (ATV),1,Clear,Daylight
+412,23,7,0,1,0,Datsun/Nissan,Datsun/Nissan Datsun/Nissan Pickup 1955-1997),1,Clear,Dark - Not Lighted
+413,26,7,1,3,1,Toyota,Toyota 4-Runner,1,Clear,Dark - Not Lighted
+414,29,7,0,9,1,Ford,Ford Crown Victoria,2,Clear,Daylight
+415,3,8,0,15,0,Saturn,Saturn Ion,1,Clear,Dark - Not Lighted
+416,2,8,0,11,1,Suzuki,Suzuki Unknown cc,1,Clear,Dark - Not Lighted
+417,10,8,9,9,2,Mercury,Mercury Mountaineer,1,Clear,Daylight
+418,7,8,9,12,0,Chevrolet,Chevrolet Camaro,1,Clear,Daylight
+419,6,8,9,12,1,Chevrolet,Chevrolet Cavalier,2,Cloudy,Daylight
+420,,,,,,,,,,
+421,13,1,0,1,0,Chevrolet,Chevrolet G-series van,1,Rain,Dark - Lighted
+422,25,7,0,2,1,Chevrolet,Chevrolet Equinox,2,Clear,Daylight
+423,1,8,0,1,1,Ford,Ford Taurus/Taurus X,1,Cloudy,Daylight
+424,1,8,1,1,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,1,Clear,Dark - Not Lighted
+425,2,8,0,9,0,Dodge,Dodge Caravan/Grand Caravan,2,Clear,Daylight
+426,26,7,1,10,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dark - Not Lighted
+427,5,8,0,9,1,Buick / Opel,Buick / Opel Regal (FWD),1,Clear,Daylight
+428,6,8,0,12,1,Toyota,Toyota Avalon,1,Clear,Dark - Not Lighted
+429,12,8,9,1,2,Harley-Davidson,Harley-Davidson 750cc or greater,1,Cloudy,Daylight
+430,15,7,0,12,0,Jeep / Kaiser-Jeep / Willys- Jeep,Jeep / Kaiser-Jeep / Willys- Jeep XYZ_Cherokee (1984-on) (For Grand Cherokee for 2014 on use 02-422.),2,Cloudy,Daylight
+431,28,7,0,1,0,Ford,Ford F-Series pickup,1,Clear,Daylight
+432,4,8,1,1,1,Chevrolet,Chevrolet HHR,2,Cloudy,Dark - Lighted
+433,8,8,0,2,1,Ford,Ford Mustang/Mustang II,1,Cloudy,Daylight
+434,9,8,1,11,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Cloudy,Dark - Not Lighted
+435,10,8,0,10,1,Oldsmobile,Oldsmobile Ninety-Eight/Regency,2,Clear,Dark - Not Lighted
+436,11,8,0,9,1,Ford,Ford Escort/EXP/ZX2,2,Clear,Daylight
+437,15,8,1,11,1,Jeep / Kaiser-Jeep / Willys- Jeep,Jeep / Kaiser-Jeep / Willys- Jeep XYZ_Cherokee (1984-on) (For Grand Cherokee for 2014 on use 02-422.),1,Clear,Daylight
+438,9,8,0,7,2,Dodge,Dodge Neon,2,Cloudy,Daylight
+439,3,8,0,7,1,Kenworth,Kenworth Medium/Heavy – COE entry position unknown,1,Cloudy,Daylight
+440,5,8,0,1,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,1,Clear,Daylight
+441,13,8,0,10,1,Ford,Ford Taurus/Taurus X,2,Clear,Daylight
+442,12,8,9,12,0,Pontiac,Pontiac Grand AM,1,Cloudy,Dark - Not Lighted
+443,19,8,0,2,0,Acura,Acura RL/RLX,2,Clear,Daylight
+444,14,8,9,12,1,Datsun/Nissan,Datsun/Nissan Xterra,2,Clear,Daylight
+445,16,8,0,1,0,Datsun/Nissan,Datsun/Nissan Titan (from 2007 on; see 473 for 2004-06),2,Clear,Daylight
+446,16,8,9,12,0,Ford,Ford Escape,2,Clear,Daylight
+447,18,8,1,12,1,Ford,Ford F-Series pickup,1,Cloudy,Dark - Not Lighted
+448,20,8,0,12,1,BMW,BMW 3-series,1,Clear,Dark - Not Lighted
+449,20,8,0,1,0,Chrysler,Chrysler 200,2,Clear,Dawn
+450,21,8,9,12,1,Kawasaki,Kawasaki 350cc or greater (ATV),1,Clear,Dusk
+451,22,8,0,6,1,Honda,Honda Accord,2,Clear,Dark - Not Lighted
+452,14,8,9,9,0,Datsun/Nissan,Datsun/Nissan Sentra,1,Clear,Daylight
+453,15,8,0,6,1,Jeep / Kaiser-Jeep / Willys- Jeep,Jeep / Kaiser-Jeep / Willys- Jeep YJ series/Wrangler,1,Clear,Dark - Lighted
+454,6,8,0,5,0,Ford,Ford F-Series pickup,1,Cloudy,Daylight
+455,16,8,0,2,1,Jeep / Kaiser-Jeep / Willys- Jeep,Jeep / Kaiser-Jeep / Willys- Jeep XYZ_Cherokee (1984-on) (For Grand Cherokee for 2014 on use 02-422.),2,Clear,Daylight
+456,18,8,9,12,1,Ford,Ford Focus,2,Cloudy,Daylight
+457,23,8,9,12,1,Honda,Honda Unknown cc,1,Clear,Daylight
+458,2,8,0,12,0,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,1,Cloudy,Dark - Not Lighted
+459,9,7,9,1,0,Ford,Ford F-Series pickup,1,Clear,Daylight
+460,18,8,0,1,1,Buick / Opel,Buick / Opel Lucerne,2,Cloudy,Daylight
+461,,,,,,,,,,
+462,27,8,9,1,1,Dodge,Dodge Ram Pickup,1,Clear,Dark - Not Lighted
+463,28,8,9,3,2,Toyota,Toyota Pickup,2,Clear,Dark - Not Lighted
+464,29,8,0,12,0,Chevrolet,"Chevrolet TrailBlazer (2003 on; for 2002 model, see 401)",1,Clear,Daylight
+465,1,9,9,12,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",2,Clear,Daylight
+466,23,8,0,99,1,Suzuki,Suzuki Unknown cc,1,Clear,Dark - Not Lighted
+467,2,8,0,1,1,Freightliner,Freightliner Medium/Heavy - CBE,1,Cloudy,Daylight
+468,2,8,0,1,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dark - Lighted
+469,22,8,0,12,1,Chevrolet,"Chevrolet TrailBlazer (2003 on; for 2002 model, see 401)",2,Clear,Daylight
+470,23,8,0,1,0,Ford,Ford Windstar,1,Clear,Dark - Lighted
+471,27,8,1,12,1,Ford,Ford Mustang/Mustang II,1,Clear,Dark - Not Lighted
+472,29,8,9,3,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,1,Cloudy,Daylight
+473,29,8,0,12,0,Toyota,Toyota Camry,2,Clear,Dark - Lighted
+474,1,9,0,12,0,Suzuki,Suzuki Reno,1,Clear,Daylight
+475,29,8,9,12,1,Dodge,Dodge Avenger,1,Clear,Dark - Not Lighted
+476,2,9,0,1,1,Honda,Honda Unknown cc,1,Clear,Daylight
+477,28,8,0,1,1,Mitsubishi,Mitsubishi Montero/Montero Sport,2,Clear,Dusk
+478,30,8,0,1,0,Pontiac,Pontiac Aztek,2,Cloudy,Dark - Not Lighted
+479,31,8,0,1,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Daylight
+480,1,9,0,12,1,Suzuki,Suzuki Forenza,2,Clear,Daylight
+481,2,9,9,11,1,Mercury,Mercury Marquis/Monterey (car version; for van version 2004 on see code 444) /Grand Marquis,2,Clear,Dark - Not Lighted
+482,5,9,9,12,1,Yamaha,Yamaha Unknown cc,1,Clear,Dark - Lighted
+483,6,9,0,3,1,Jeep / Kaiser-Jeep / Willys- Jeep,Jeep / Kaiser-Jeep / Willys- Jeep XYZ_Cherokee (1984-on) (For Grand Cherokee for 2014 on use 02-422.),2,Cloudy,Dark - Unknown Lighting
+484,6,9,1,9,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",2,Clear,Dusk
+485,10,9,0,1,1,Harley-Davidson,Harley-Davidson 750cc or greater,1,Clear,Daylight
+486,31,8,0,6,1,Yamaha,Yamaha Unknown cc (ATV),1,Clear,Daylight
+487,8,9,9,12,1,Harley-Davidson,Harley-Davidson 750cc or greater,1,Clear,Daylight
+488,2,9,0,12,0,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,2,Clear,Dark - Not Lighted
+489,6,9,0,3,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,1,Cloudy,Dark - Not Lighted
+490,8,9,0,12,1,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,1,Clear,Dark - Not Lighted
+491,13,9,0,12,0,Kenworth,Kenworth Medium/Heavy – COE entry position unknown,1,Clear,Dark - Lighted
+492,27,8,9,12,1,Chevrolet,Chevrolet Corvette,1,Clear,Dusk
+493,2,9,0,12,1,Datsun/Nissan,Datsun/Nissan Datsun/Nissan Pickup 1955-1997),1,Cloudy,Daylight
+494,10,9,1,10,1,KIA,KIA Sorrento,2,Clear,Daylight
+495,9,9,0,6,1,Chevrolet,Chevrolet Cruze,1,Clear,Daylight
+496,12,9,0,1,0,Acura,Acura TL,1,Cloudy,Daylight
+497,19,6,9,12,0,Chevrolet,"Chevrolet TrailBlazer (2003 on; for 2002 model, see 401)",2,Clear,Daylight
+498,14,9,0,12,1,Honda,Honda Unknown cc,1,Clear,Daylight
+499,14,9,1,12,0,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,2,Clear,Dark - Lighted
+500,17,9,9,12,2,Dodge,Dodge Ram Pickup,1,Clear,Dark - Lighted
+501,14,9,0,3,1,Suzuki,Suzuki Unknown cc,1,Clear,Daylight
+502,2,9,0,9,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,2,Clear,Daylight
+503,9,9,1,12,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Cloudy,Dark - Not Lighted
+504,14,9,1,1,1,Harley-Davidson,Harley-Davidson 750cc or greater,1,Cloudy,Dark - Not Lighted
+505,19,9,9,12,1,Datsun/Nissan,Datsun/Nissan 810/Maxima,1,Cloudy,Daylight
+506,19,9,9,1,1,Toyota,Toyota Camry,2,Cloudy,Dark - Not Lighted
+507,20,9,1,10,1,Ford,Ford F-Series pickup,1,Clear,Dark - Not Lighted
+508,21,9,9,99,0,Unknown Make,"Unknown Make Unknown (as to automobile, motored cycle, light truck or truck)",9,Clear,Dark - Lighted
+509,19,8,1,7,1,Suzuki,Suzuki Unknown cc (ATV),1,Clear,Daylight
+510,23,9,0,1,0,Chevrolet,"Chevrolet TrailBlazer (2003 on; for 2002 model, see 401)",2,Clear,Dark - Lighted
+511,20,9,9,4,1,Toyota,Toyota Avalon,1,Clear,Daylight
+512,7,9,0,5,0,GMC,GMC Jimmy/Typhoon/Envoy,1,Clear,Daylight
+513,31,8,9,1,1,Datsun/Nissan,Datsun/Nissan 810/Maxima,1,Clear,Dark - Not Lighted
+514,10,9,9,12,0,Unknown Make,"Unknown Make Unknown (as to automobile, motored cycle, light truck or truck)",9,Clear,Dark - Not Lighted
+515,14,9,9,12,1,Other Make,Other Make Unknown cc,1,Clear,Dark - Not Lighted
+516,17,9,0,2,0,GMC,GMC G-series van/Savana,1,Clear,Daylight
+517,18,9,9,12,1,Chevrolet,Chevrolet Camaro,1,Clear,Dark - Not Lighted
+518,18,9,1,6,2,Ford,Ford Focus,2,Clear,Dark - Not Lighted
+519,25,9,0,1,0,Dodge,Dodge Durango (1998-2003 only; see model 422 for 2004 on),2,Clear,Daylight
+520,26,9,0,12,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dawn
+521,27,9,1,10,1,Ford,Ford F-Series pickup,1,Cloudy,Dark - Not Lighted
+522,27,9,9,12,1,Toyota,Toyota Matrix,1,Clear,Daylight
+523,27,9,0,12,1,Kawasaki,Kawasaki Unknown cc,1,Cloudy,Daylight
+524,28,9,0,8,1,Honda,Honda Pilot,2,Cloudy,Daylight
+525,11,7,0,12,1,Ford,Ford Five Hundred,2,Clear,Daylight
+526,27,9,1,3,1,Toyota,Toyota Yaris,2,Cloudy,Dark - Not Lighted
+527,28,9,1,12,1,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,1,Clear,Dark - Not Lighted
+528,28,9,0,12,1,Dodge,Dodge Ram Pickup,1,Clear,Dark - Not Lighted
+529,29,9,9,10,2,Chevrolet,Chevrolet S-10/T-10 Pickup,1,Cloudy,Daylight
+530,20,9,0,1,1,Mitsubishi,Mitsubishi Montero/Montero Sport,1,Clear,Daylight
+531,24,9,9,12,0,Pontiac,Pontiac Sunbird (1985-1994)/J-2000/Sunfire (1995 on),1,Clear,Dark - Lighted
+532,28,9,0,4,1,Mercury,Mercury Cougar/XR7 (1967-1997),1,Clear,Daylight
+533,11,9,9,12,1,Chevrolet,Chevrolet HHR,2,Cloudy,Daylight
+534,18,9,9,9,1,Chevrolet,Chevrolet Suburban (from 1950-2003;see 422 for 2004 on),2,Cloudy,Dark - Not Lighted
+535,27,9,9,4,2,Toyota,Toyota Scion tC (2005-2011 only.  See Scion for 2012 on.),2,Clear,Dark - Not Lighted
+536,28,9,1,12,1,Lincoln,Lincoln LS,1,Cloudy,Daylight
+537,29,9,0,6,1,Yamaha,Yamaha Unknown cc,1,Clear,Daylight
+538,4,10,1,1,1,Honda,Honda Unknown cc,1,Clear,Dark - Not Lighted
+539,6,10,9,12,1,Mack,Mack Medium/Heavy - CBE,1,Clear,Daylight
+540,7,10,9,12,1,Mercury,Mercury Marquis/Monterey (car version; for van version 2004 on see code 444) /Grand Marquis,1,Rain,Daylight
+541,3,10,9,12,1,Toyota,Toyota Corolla,2,Clear,Daylight
+542,9,10,1,12,1,Infiniti,Infiniti I30,1,Clear,Dark - Not Lighted
+543,6,10,0,12,1,Infiniti,Infiniti I35,1,Cloudy,Daylight
+544,3,10,0,1,1,Ford,Ford Ranger,2,Clear,Daylight
+545,28,9,0,8,1,Honda,Honda Unknown cc (ATV),1,Cloudy,Dark - Not Lighted
+546,26,9,9,12,1,Yamaha,Yamaha Unknown cc,1,Clear,Daylight
+547,19,9,9,3,1,Toyota,Toyota Camry,2,Clear,Daylight
+548,30,7,9,1,0,Chevrolet,Chevrolet Astro Van,1,Clear,Dark - Lighted
+549,24,9,9,1,1,Chrysler,Chrysler Sebring,1,Clear,Daylight
+550,1,10,9,1,1,Honda,Honda Unknown cc,1,Clear,Daylight
+551,7,10,0,10,1,Oldsmobile,Oldsmobile Achieva/Alero,1,Clear,Daylight
+552,5,10,1,1,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,1,Clear,Daylight
+553,11,10,1,12,1,Dodge,Dodge Caravan/Grand Caravan,2,Clear,Dark - Not Lighted
+554,2,10,9,11,0,Unknown Make,Unknown Make Medium/Heavy - Unknown engine location,9,Clear,Dark - Not Lighted
+555,22,8,0,12,0,Harley-Davidson,Harley-Davidson 750cc or greater,1,Clear,Dark - Not Lighted
+556,17,9,0,12,1,Toyota,Toyota Avalon,1,"Fog, Smog, Smoke",Dark - Not Lighted
+557,14,10,0,12,1,Ford,Ford E-Series Van/Econoline,1,Rain,Dark - Not Lighted
+558,16,10,9,12,1,Chevrolet,Chevrolet Cavalier,1,Cloudy,Daylight
+559,10,10,9,1,0,Unknown Make,"Unknown Make Unknown (as to automobile, motored cycle, light truck or truck)",9,Clear,Dark - Not Lighted
+560,6,10,0,1,0,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Daylight
+561,6,10,0,9,2,Honda,"Honda Civic/CRX, del Sol",2,Clear,Daylight
+562,5,10,9,9,1,Ford,Ford Focus,2,Clear,Daylight
+563,28,9,9,11,1,Datsun/Nissan,Datsun/Nissan 350Z/370Z,1,Cloudy,Daylight
+564,8,10,9,12,1,Lincoln,Lincoln Continental (thru '81)/ Town Car,1,Clear,Dark - Not Lighted
+565,19,9,0,12,0,Chevrolet,Chevrolet S-10/T-10 Pickup,1,Clear,Daylight
+566,20,10,1,9,1,Toyota,Toyota Tacoma,1,Clear,Dark - Not Lighted
+567,6,10,9,1,0,Toyota,Toyota Highlander,2,Clear,Daylight
+568,24,9,9,1,0,Unknown Make,"Unknown Make Unknown (as to automobile, motored cycle, light truck or truck)",9,Clear,Daylight
+569,4,10,0,11,0,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",2,Clear,Dark - Not Lighted
+570,4,10,9,12,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Daylight
+571,4,10,9,12,0,Ford,Ford Bronco-fullsize (1978-on),1,Cloudy,Dark - Not Lighted
+572,11,10,0,6,0,Kawasaki,Kawasaki Unknown cc,1,Clear,Dark - Lighted
+573,14,10,0,3,1,Mazda,Mazda Mazda6,2,Cloudy,Daylight
+574,18,10,1,7,1,Ford,Ford Fusion,1,Clear,Dusk
+575,19,10,9,11,1,Lexus,Lexus GS-300/350/400/430/ 450h/460,1,Clear,Dark - Not Lighted
+576,22,10,8,12,1,Honda,Honda Unknown cc,1,Clear,Dark - Lighted
+577,19,10,1,15,0,Datsun/Nissan,Datsun/Nissan Quest,1,Clear,Daylight
+578,8,10,9,12,1,Toyota,Toyota Tacoma,1,Clear,Dark - Not Lighted
+579,27,10,0,6,2,Honda,Honda Unknown cc (ATV),1,Cloudy,Dark - Not Lighted
+580,26,10,1,7,1,Chevrolet,Chevrolet Camaro,1,Clear,Dark - Not Lighted
+581,25,10,9,12,1,Ford,Ford Expedition,2,Clear,Daylight
+582,18,10,1,12,1,GMC,"GMC C, K, R, V-series pickup/     Sierra",1,Clear,Dark - Not Lighted
+583,22,10,0,12,1,Buick / Opel,"Buick / Opel Electra/Electra 225/ Park Limited, Park Avenue, Ultra, Base",1,Clear,Dark - Not Lighted
+584,19,10,1,12,2,Chevrolet,Chevrolet Camaro,1,Clear,Daylight
+585,25,10,0,13,1,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,1,Clear,Dark - Not Lighted
+586,25,10,0,8,1,Honda,Honda 750 cc or greater,1,Clear,Daylight
+587,27,10,1,12,2,GMC,"GMC C, K, R, V-series pickup/     Sierra",1,Clear,Daylight
+588,28,10,1,12,0,Mercedes-Benz,Mercedes-Benz E Class (97 on),1,Clear,Daylight
+589,29,10,0,12,0,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,2,Clear,Dark - Not Lighted
+590,1,11,1,12,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dark - Not Lighted
+591,24,10,1,12,1,Ford,Ford Escape,1,Clear,Dark - Not Lighted
+592,29,10,9,9,1,Hyundai,Hyundai Accent,2,Clear,Daylight
+593,31,10,0,1,0,GMC,GMC Jimmy/Typhoon/Envoy,1,Clear,Dark - Not Lighted
+594,31,10,0,12,1,Datsun/Nissan,Datsun/Nissan 810/Maxima,1,Rain,Daylight
+595,31,10,1,1,1,Chevrolet,Chevrolet S-10/T-10 Pickup,1,Other,Dark - Not Lighted
+596,1,11,0,13,1,Volkswagen,Volkswagen Jetta/Jetta SportsWagen,2,Clear,Daylight
+597,1,11,0,12,1,Jeep / Kaiser-Jeep / Willys- Jeep,Jeep / Kaiser-Jeep / Willys- Jeep YJ series/Wrangler,1,Clear,Daylight
+598,2,11,9,3,3,Mercury,Mercury Marquis/Monterey (car version; for van version 2004 on see code 444) /Grand Marquis,1,Clear,Dark - Lighted
+599,4,11,0,12,1,Honda,Honda Accord,1,Cloudy,Dark - Not Lighted
+600,5,11,9,12,1,Ford,Ford F-Series pickup,1,Cloudy,Daylight
+601,5,11,0,12,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,1,Clear,Dark - Not Lighted
+602,5,11,0,12,0,Ford,Ford Crown Victoria,1,Rain,Dusk
+603,7,11,9,10,0,Honda,Honda Accord,9,Clear,Dark - Lighted
+604,8,11,0,10,1,Toyota,Toyota Corolla,2,Clear,Dusk
+605,9,11,1,1,1,Datsun/Nissan,Datsun/Nissan Altima,1,Clear,Dawn
+606,10,11,9,1,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Daylight
+607,10,11,1,3,2,Honda,Honda CR-V,1,Cloudy,Dark - Lighted
+608,,,,,,,,,,
+609,15,10,0,12,1,Honda,Honda CR-V,1,Clear,Daylight
+610,8,10,1,1,1,BMW,BMW 3-series,1,Clear,Dark - Not Lighted
+611,18,10,0,11,1,Honda,Honda Accord,2,Clear,Daylight
+612,22,10,0,1,1,Mercury,Mercury Marquis/Monterey (car version; for van version 2004 on see code 444) /Grand Marquis,1,Clear,Daylight
+613,28,10,9,9,1,Datsun/Nissan,Datsun/Nissan Titan (from 2004-06; see 481 for 2007 on),1,"Fog, Smog, Smoke",Daylight
+614,2,11,0,1,1,Honda,Honda Accord,2,Clear,Dark - Not Lighted
+615,9,11,0,11,0,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dark - Not Lighted
+616,11,11,9,10,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dark - Not Lighted
+617,12,11,9,3,1,Toyota,Toyota Tacoma,1,Clear,Dark - Not Lighted
+618,12,11,9,12,1,Datsun/Nissan,Datsun/Nissan Altima,1,Clear,Dark - Not Lighted
+619,13,11,0,12,1,Toyota,Toyota Avalon,1,Clear,Dark - Not Lighted
+620,15,11,0,12,0,Chrysler,Chrysler Sebring,1,Clear,Dark - Not Lighted
+621,18,11,9,1,1,Jeep / Kaiser-Jeep / Willys- Jeep,Jeep / Kaiser-Jeep / Willys- Jeep YJ series/Wrangler,1,Clear,Dark - Lighted
+622,19,11,0,1,0,Lincoln,Lincoln Continental (thru '81)/ Town Car,2,Clear,Dark - Lighted
+623,22,11,1,12,0,Toyota,Toyota Camry,1,Clear,Dark - Lighted
+624,5,10,9,12,1,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,1,Clear,Dark - Not Lighted
+625,22,10,0,1,0,Ford,Ford F-Series pickup,2,Clear,Dark - Lighted
+626,8,11,0,11,0,Ford,Ford F-Series pickup,1,Clear,Daylight
+627,17,11,9,12,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",2,Cloudy,Daylight
+628,18,11,0,12,1,Chrysler,Chrysler 300M/300/300C/300S,1,Clear,Daylight
+629,18,11,9,12,1,Dodge,Dodge Ram Pickup,1,Clear,Dark - Not Lighted
+630,18,11,9,13,1,Chevrolet,Chevrolet S-10/T-10 Pickup,1,Clear,Dark - Not Lighted
+631,21,11,9,1,1,Honda,"Honda Civic/CRX, del Sol",1,Clear,Dawn
+632,22,11,0,12,0,Chevrolet,Chevrolet Colorado,1,Clear,Daylight
+633,23,11,0,12,0,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,1,Cloudy,Dark - Not Lighted
+634,16,11,0,12,1,Chevrolet,"Chevrolet Impala/Caprice (For SS from 2014 on, use 20-021.)",2,Clear,Dark - Not Lighted
+635,23,11,0,7,1,Volvo,Volvo Medium/Heavy – CBE,1,Rain,Dark - Not Lighted
+636,24,11,9,1,1,Honda,"Honda Civic/CRX, del Sol",1,Clear,Dark - Not Lighted
+637,15,8,1,1,0,Chevrolet,Chevrolet Camaro,1,Clear,Dark - Lighted
+638,10,11,0,12,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dark - Not Lighted
+639,1,10,0,9,1,Mercury,Mercury Cougar/XR7 (1967-1997),1,Clear,Daylight
+640,19,11,0,11,1,Isuzu,Isuzu Medium/Heavy – Unknown engine location,1,Clear,Daylight
+641,20,11,1,9,1,Ford,Ford F-Series pickup,1,Clear,Dark - Not Lighted
+642,21,11,0,12,1,Mazda,Mazda Pickup/ B-Series Pickup,1,Clear,Daylight
+643,22,11,1,8,1,Datsun/Nissan,Datsun/Nissan Altima,2,Clear,Dark - Not Lighted
+644,22,11,1,12,1,Honda,"Honda Civic/CRX, del Sol",1,Rain,Dark - Not Lighted
+645,22,11,8,7,0,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,1,Rain,Dark - Not Lighted
+646,23,11,9,12,1,Toyota,Toyota Avalon,2,Rain,Dark - Not Lighted
+647,24,11,0,1,1,Datsun/Nissan,Datsun/Nissan Versa,2,Cloudy,Daylight
+648,25,11,0,12,1,Toyota,Toyota Avalon,2,Cloudy,Daylight
+649,23,11,0,12,3,Infiniti,Infiniti G25/G35/G37,1,Cloudy,Dark - Not Lighted
+650,27,11,1,1,0,Mazda,Mazda Mazda6,1,Cloudy,Daylight
+651,27,11,0,9,1,Honda,"Honda Civic/CRX, del Sol",2,Clear,Daylight
+652,27,11,9,12,1,Mitsubishi,Mitsubishi Galant,1,Clear,Daylight
+653,28,11,1,2,1,Mercury,Mercury Milan,1,Clear,Dark - Not Lighted
+654,30,11,0,3,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,1,Clear,Daylight
+655,,,,,,,,,,
+656,6,12,0,8,2,Chevrolet,Chevrolet Cavalier,1,Rain,Dark - Not Lighted
+657,14,11,0,11,1,Freightliner,Freightliner Medium/Heavy - CBE,1,Clear,Daylight
+658,16,11,1,1,0,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Rain,Dark - Not Lighted
+659,19,11,0,9,1,Chevrolet,"Chevrolet Impala/Caprice (For SS from 2014 on, use 20-021.)",1,Clear,Daylight
+660,23,11,9,1,1,Mitsubishi,Mitsubishi Galant,1,Clear,Dark - Not Lighted
+661,24,11,0,12,1,Ford,Ford F-Series pickup,1,Clear,Daylight
+662,25,11,9,12,0,Buick / Opel,Buick / Opel Rendezvous,2,Clear,Dark - Not Lighted
+663,25,11,0,9,1,Buick / Opel,"Buick / Opel LeSabre/Centurion/ Estate Wagon, Invicta, Custom, Limited, T-Type, Ltd, C.M.I, LE",1,Rain,Dark - Not Lighted
+664,29,11,0,6,2,Other Make,Other Make Other (vehicle),1,Clear,Dark - Not Lighted
+665,2,12,0,12,1,Toyota,Toyota Corolla,2,Rain,Daylight
+666,4,12,1,1,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Cloudy,Dark - Not Lighted
+667,4,12,8,1,1,Mercedes-Benz,Mercedes-Benz S Class (95 on),1,Cloudy,Daylight
+668,5,12,9,12,1,Ford,Ford Taurus/Taurus X,1,Cloudy,Daylight
+669,7,12,9,12,1,Toyota,Toyota Camry,1,Clear,Dark - Not Lighted
+670,7,12,9,12,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,2,Clear,Dawn
+671,7,12,8,12,1,Datsun/Nissan,Datsun/Nissan 810/Maxima,1,Unknown,Dark - Unknown Lighting
+672,9,12,1,8,1,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,1,Clear,Dark - Not Lighted
+673,11,12,9,10,1,Ford,Ford Mustang/Mustang II,1,Clear,Dark - Unknown Lighting
+674,14,12,9,12,1,Jeep / Kaiser-Jeep / Willys- Jeep,Jeep / Kaiser-Jeep / Willys- Jeep XYZ_Cherokee (1984-on) (For Grand Cherokee for 2014 on use 02-422.),1,Cloudy,Dark - Not Lighted
+675,29,11,8,12,1,Mercury,Mercury Mountaineer,1,Clear,Dark - Not Lighted
+676,12,12,0,11,0,Volvo,Volvo Medium/Heavy – CBE,1,Clear,Daylight
+677,13,12,0,12,0,Other Make,Other Make Other (bus),1,Clear,Dark - Not Lighted
+678,15,6,1,15,0,Ford,Ford F-Series pickup,1,Cloudy,Dark - Lighted
+679,4,12,1,10,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,1,"Fog, Smog, Smoke",Dark - Not Lighted
+680,4,12,0,12,1,Toyota,Toyota Camry,1,Clear,Dark - Not Lighted
+681,5,12,9,3,1,Acura,Acura Integra,1,Clear,Dark - Not Lighted
+682,8,12,9,11,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,2,Clear,Dusk
+683,11,12,1,12,1,Toyota,Toyota Camry,1,Clear,Daylight
+684,12,12,0,2,1,Pontiac,Pontiac Grand AM,1,Clear,Daylight
+685,12,12,9,11,1,Ford,Ford Escape,2,Clear,Dark - Not Lighted
+686,12,12,0,1,0,Oldsmobile,Oldsmobile Delta 88/LSS,1,Clear,Dark - Lighted
+687,13,12,1,6,1,Toyota,Toyota Tundra,1,Clear,Dark - Not Lighted
+688,14,12,9,12,1,Ford,Ford Taurus/Taurus X,1,Clear,Daylight
+689,15,12,9,12,1,Buick / Opel,Buick / Opel LaCrosse,1,Cloudy,Dark - Not Lighted
+690,16,12,9,1,1,Suzuki,Suzuki Forenza,2,Cloudy,Dark - Lighted
+691,15,12,0,1,0,Ford,Ford F-Series pickup,1,Rain,Dark - Lighted
+692,17,12,0,13,2,Toyota,Toyota Camry,2,Clear,Daylight
+693,14,12,1,8,2,Ford,Ford Crown Victoria,1,Clear,Dark - Lighted
+694,25,11,0,12,0,Chrysler,Chrysler PT Cruiser,2,Clear,Dark - Not Lighted
+695,15,12,9,9,1,Ford,Ford Crown Victoria,1,Clear,Daylight
+696,16,12,9,1,1,Freightliner,Freightliner Medium/Heavy - CBE,1,Clear,Dark - Not Lighted
+697,18,12,0,1,1,Ford,Ford Escape,1,Cloudy,Dark - Lighted
+698,4,12,0,12,0,Chevrolet,"Chevrolet Impala/Caprice (For SS from 2014 on, use 20-021.)",1,Cloudy,Dark - Lighted
+699,8,12,0,12,1,Dodge,Dodge Diplomat,1,Clear,Dark - Not Lighted
+700,9,12,0,6,1,Buick / Opel,"Buick / Opel LeSabre/Centurion/ Estate Wagon, Invicta, Custom, Limited, T-Type, Ltd, C.M.I, LE",1,Clear,Dark - Not Lighted
+701,12,12,0,12,0,Mercedes-Benz,Mercedes-Benz S Class (95 on),2,Clear,Dark - Lighted
+702,16,12,0,12,0,Chevrolet,Chevrolet HHR,1,Clear,Daylight
+703,16,12,0,12,0,Toyota,Toyota Tacoma,1,Clear,Dark - Not Lighted
+704,16,12,0,1,0,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dark - Not Lighted
+705,19,12,0,2,1,Chevrolet,"Chevrolet TrailBlazer (2003 on; for 2002 model, see 401)",2,Clear,Daylight
+706,19,12,0,1,0,Dodge,Dodge Ram Pickup,1,Rain,Dark - Not Lighted
+707,19,12,9,99,0,Unknown Make,"Unknown Make Unknown (as to automobile, motored cycle, light truck or truck)",9,Rain,Dark - Not Lighted
+708,20,12,0,12,0,Chevrolet,Chevrolet Malibu/Malibu Maxx,1,Rain,Dark - Not Lighted
+709,20,12,9,4,1,Toyota,Toyota Camry,1,Rain,Daylight
+710,21,12,0,15,0,Lincoln,Lincoln LS,2,Cloudy,Dark - Not Lighted
+711,18,12,0,3,0,Kenworth,Kenworth Medium/Heavy - CBE,1,Clear,Dark - Lighted
+712,23,12,0,11,0,Ford,Ford F-Series pickup,1,Rain,Dark - Not Lighted
+713,27,12,9,12,1,Mercury,Mercury Mountaineer,1,Rain,Dark - Not Lighted
+714,8,12,0,1,0,GMC,GMC Medium/Heavy Van-Based Vehicle,1,Clear,Dark - Lighted
+715,18,12,0,3,2,Volkswagen,Volkswagen Golf/Cabriolet/Cabrio/GTI/ GLI,1,Clear,Daylight
+716,17,12,9,1,1,Ford,Ford Windstar,2,Clear,Dark - Not Lighted
+717,4,12,0,12,1,Chevrolet,Chevrolet S-10/T-10 Pickup,1,Clear,Dark - Lighted
+718,16,12,0,1,0,Freightliner,Freightliner Medium/Heavy - CBE,1,Clear,Daylight
+719,16,12,9,12,0,Unknown Make,"Unknown Make Unknown (as to automobile, motored cycle, light truck or truck)",9,Cloudy,Dark - Not Lighted
+720,18,12,1,15,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,1,Clear,Dark - Not Lighted
+721,21,12,9,1,1,Ford,Ford Expedition,2,Cloudy,Daylight
+722,29,11,9,11,0,Chevrolet,Chevrolet Fullsize Blazer/Tahoe,9,Clear,Dark - Not Lighted
+723,24,12,1,12,1,Honda,Honda Passport,1,Cloudy,Dark - Not Lighted
+724,26,12,1,12,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dark - Not Lighted
+725,27,12,9,12,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,Clear,Dark - Unknown Lighting
+726,29,12,0,12,1,Ford,Ford Crown Victoria,1,Clear,Daylight
+727,29,12,1,12,1,Dodge,Dodge Dakota,1,Clear,Dark - Not Lighted
+728,5,12,1,7,1,Ford,Ford F-Series pickup,1,Cloudy,Daylight
+729,22,11,9,12,0,Dodge,Dodge Charger,2,Cloudy,Daylight
+730,31,12,9,12,3,Datsun/Nissan,Datsun/Nissan Versa,2,Clear,Dark - Not Lighted
+731,30,12,0,12,1,Chevrolet,"Chevrolet C, K, R, V-series pickup/Silverado",1,"Fog, Smog, Smoke",Dawn
+732,30,12,0,12,1,International Harvester/Navistar,International Harvester/Navistar Medium/Heavy - CBE,1,Clear,Dark - Not Lighted
+733,9,1,9,1,1,Toyota,Toyota Corolla,1,Clear,Dark - Lighted
+734,,,,,,,,,,
+735,19,7,1,7,1,Jeep / Kaiser-Jeep / Willys- Jeep,Jeep / Kaiser-Jeep / Willys- Jeep Liberty,2,Cloudy,Daylight
+736,26,9,1,1,1,Kawasaki,Kawasaki 350cc or greater (ATV),1,Clear,Dark - Not Lighted
+737,5,11,0,12,0,Ford,Ford F-Series pickup,1,Clear,Daylight
+738,20,12,9,12,1,Dodge,Dodge Avenger,2,Cloudy,Dark - Not Lighted
+739,11,12,9,1,1,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,2,Clear,Daylight
+740,27,12,9,1,1,Cadillac,Cadillac CTS/CTC,2,Clear,Dark - Not Lighted
+741,4,5,9,1,1,BMW,BMW 3-series,1,Clear,Dark - Lighted
+742,12,4,1,2,1,GMC,GMC Jimmy/Typhoon/Envoy,1,Clear,Dark - Not Lighted
+743,9,5,1,1,0,Cadillac,"Cadillac Deville/Fleetwood,Coupe de Ville, Sedan de Ville, Fleetwood Brougham, Fleetwood 60 Special, d`Elegan",1,Clear,Dark - Not Lighted
+744,3,1,0,4,1,Toyota,Toyota Camry,1,Clear,Dark - Lighted
+745,9,2,0,11,0,Ford,Ford Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport,1,Clear,Dark - Not Lighted
+746,2,1,9,1,1,Buick / Opel,Buick / Opel Unknown (automobile),1,Clear,Dark - Not Lighted

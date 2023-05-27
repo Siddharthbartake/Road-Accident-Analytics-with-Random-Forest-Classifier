@@ -1,0 +1,29 @@
+import requests
+import json
+import pandas as pd
+from collections import defaultdict
+dataframe_csv = pd.DataFrame
+def crash_list(states, from_year, to_year, min_veh, max_veh):
+        url = f"https://crashviewer.nhtsa.dot.gov/CrashAPI//crashes/GetCaseList?states={states},51&fromYear={from_year}&toYear={to_year}&minNumOfVehicles={min_veh}&maxNumOfVehicles={max_veh}&format=json"
+        page = requests.get(url)
+        data = page.text
+        parse_json = json.loads(data)
+        attributeDict = defaultdict(list)
+        for attribute in parse_json["Results"][0]:
+            attributeDict["County Name"].append(attribute['ST_CASE'
+            attributeDict["County Name"].append(attribute["CountyName"])
+            attributeDict["Number of Fatals"].append(attribute["Fatals"])
+            attributeDict["Total Vehicles Involved"].append(attribute["TotalVehicles"])
+            attributeDict["Number of People involved"].append(attribute["Persons"])
+            dataframe = pd.DataFrame(attributeDict)
+        return dataframe
+start_year = 2010
+end_year = 2022
+final_dataframe = pd.DataFrame()
+for i in range(start_year,end_year,1):
+    final_dataframe = final_dataframe.append(crash_list(6, i, i+1, 1, 10))
+    print(final_dataframe)
+final_dataframe.reset_index(drop=True, inplace = True)
+final_dataframe.to_csv(f'/Users/aakarshsurendra/Desktop/Project/558/Datasets/crash_list.csv')
+
+
