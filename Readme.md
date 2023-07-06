@@ -7,7 +7,7 @@
 * 9 contributing attributes for an accident and are all Categorical.
 * Classification Model is used for building a prediction model.
 
-# Code and Resources Used
+## Code and Resources Used
 * **Python Version** : 3.11.4.
 * **Packages :** pandas, sklearn, matplotlib, seaboard, json, defaultdict.
 * **API and Data Source:** https://crashviewer.nhtsa.dot.gov/CrashAPI.
