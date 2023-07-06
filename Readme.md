@@ -6,3 +6,9 @@
 * Injury Severity Level is the Dependent Variable(Predictor) and is described using the KABCO scale.
 * 9 contributing attributes for an accident and are all Categorical.
 * Classification Model is used for building a prediction model.
+
+# Code and Resources Used
+**Python Version : 3.11.4
+**Packages : ** pandas, sklearn, matplotlib, seaboard, json, defaultdict
+**API and Data Source: https://crashviewer.nhtsa.dot.gov/CrashAPI
+**Machine Learning Algorithms : Ordinal Logistic Regressor, Naïve Bayes, Random Forest Classifier
