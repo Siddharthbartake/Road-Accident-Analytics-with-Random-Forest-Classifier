@@ -8,7 +8,7 @@
 * Classification Model is used for building a prediction model.
 
 # Code and Resources Used
-**Python Version : 3.11.4
-**Packages : ** pandas, sklearn, matplotlib, seaboard, json, defaultdict
-**API and Data Source: https://crashviewer.nhtsa.dot.gov/CrashAPI
-**Machine Learning Algorithms : Ordinal Logistic Regressor, Naïve Bayes, Random Forest Classifier
+**Python Version : 3.11.4.
+**Packages : ** pandas, sklearn, matplotlib, seaboard, json, defaultdict.
+**API and Data Source: https://crashviewer.nhtsa.dot.gov/CrashAPI.
+**Machine Learning Algorithms : Ordinal Logistic Regressor, Naïve Bayes, Random Forest Classifier.
